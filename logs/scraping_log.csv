@@ -1,0 +1,77 @@
+timestamp          , product_name                      , amazon_price, flipkart_price, croma_price, avg_price, fallback_used
+2025-11-20 21:56:03, Apple iPhone 13 (8GB/256GB)       , None        , None          , None       ,   46212.0, True
+2025-11-20 21:56:03, Samsung Galaxy M34 (8GB/128GB)    , None        , None          , None       ,   20977.2, True
+2025-11-20 21:56:03, Samsung Galaxy A14 (8GB/256GB)    , None        , None          , None       ,   59953.2, True
+2025-11-20 21:56:03, Samsung Galaxy A54 (8GB/128GB)    , None        , None          , None       ,   43839.6, True
+2025-11-20 21:56:03, Samsung Galaxy S21 FE (4GB/64GB)  , None        , None          , None       ,   14164.8, True
+2025-11-20 21:56:03, Apple iPhone 12 (4GB/64GB)        , None        , None          , None       ,   28776.0, True
+2025-11-20 21:56:03, Xiaomi Poco X5 Pro (6GB/128GB)    , None        , None          , None       ,   67231.2, True
+2025-11-20 21:56:03, Xiaomi Redmi Note 12 (4GB/64GB)   , None        , None          , None       ,   34071.6, True
+2025-11-20 21:56:03, Apple iPhone 14 (4GB/64GB)        , None        , None          , None       ,   22510.8, True
+2025-11-20 21:56:03, Apple iPhone SE 3 (6GB/128GB)     , None        , None          , None       ,   69842.4, True
+2025-11-20 21:56:03, Xiaomi Poco M6 Pro (8GB/256GB)    , None        , None          , None       ,   48716.4, True
+2025-11-20 21:56:03, OnePlus Nord CE 3 Lite (8GB/256GB), None        , None          , None       ,   31720.8, True
+2025-11-20 21:56:03, Xiaomi Redmi 12C (4GB/64GB)       , None        , None          , None       ,   10939.2, True
+2025-11-20 21:56:03, Realme Realme Narzo 60 (6GB/128GB), None        , None          , None       ,   39648.0, True
+2025-11-20 21:56:03, Vivo Vivo Y16 (8GB/128GB)         , None        , None          , None       ,   21789.6, True
+2025-11-20 21:56:03, Vivo Vivo V29 (8GB/128GB)         , None        , None          , None       ,   40428.0, True
+2025-11-20 21:56:03, Realme Realme 11 Pro (8GB/128GB)  , None        , None          , None       ,   24553.2, True
+2025-11-20 21:56:03, Vivo Vivo T2 (6GB/128GB)          , None        , None          , None       ,   28426.8, True
+2025-11-20 21:56:03, OnePlus Nord 3 (8GB/128GB)        , None        , None          , None       ,   47413.2, True
+2025-11-20 21:56:03, Oppo Oppo A78 (8GB/128GB)         , None        , None          , None       ,   64389.6, True
+2025-11-20 21:56:03, OnePlus Ace 2V (4GB/64GB)         , None        , None          , None       ,   36075.6, True
+2025-11-20 21:56:03, Oppo Oppo Reno 10 (6GB/128GB)     , None        , None          , None       ,   31497.6, True
+2025-11-21 19:22:17,Samsung Galaxy M34 (8GB/128GB),None,None,None,20977.2,True
+2025-11-21 19:22:17,Apple iPhone 12 (4GB/64GB),None,None,None,28776.0,True
+2025-11-21 19:22:17,Samsung Galaxy A54 (8GB/128GB),None,None,None,43839.6,True
+2025-11-21 19:22:17,Samsung Galaxy A14 (8GB/256GB),None,None,None,59953.2,True
+2025-11-21 19:22:17,Apple iPhone 13 (8GB/256GB),None,None,None,46212.0,True
+2025-11-21 19:22:17,Samsung Galaxy S21 FE (4GB/64GB),None,None,None,14164.8,True
+2025-11-21 19:22:22,Vivo Vivo V29 (8GB/128GB),None,None,None,40428.0,True
+2025-11-21 19:22:22,Apple iPhone 14 (4GB/64GB),None,None,None,22510.8,True
+2025-11-21 19:22:22,Xiaomi Redmi Note 12 (4GB/64GB),None,None,None,34071.6,True
+2025-11-21 19:22:22,Xiaomi Redmi 12C (4GB/64GB),None,None,None,10939.2,True
+2025-11-21 19:22:22,Xiaomi Poco M6 Pro (8GB/256GB),None,None,None,48716.4,True
+2025-11-21 19:22:22,OnePlus Nord CE 3 Lite (8GB/256GB),None,None,None,31720.8,True
+2025-11-21 19:22:22,OnePlus Nord 3 (8GB/128GB),None,None,None,47413.2,True
+2025-11-21 19:22:22,Realme Realme 11 Pro (8GB/128GB),None,None,None,24553.2,True
+2025-11-21 19:22:22,Xiaomi Poco X5 Pro (6GB/128GB),None,None,None,67231.2,True
+2025-11-21 19:22:22,Vivo Vivo Y16 (8GB/128GB),None,None,None,21789.6,True
+2025-11-21 19:22:22,OnePlus Ace 2V (4GB/64GB),None,None,None,36075.6,True
+2025-11-21 19:22:22,Vivo Vivo T2 (6GB/128GB),None,None,None,28426.8,True
+2025-11-21 19:22:23,Apple iPhone SE 3 (6GB/128GB),None,None,None,69842.4,True
+2025-11-21 19:22:23,Oppo Oppo Reno 10 (6GB/128GB),None,None,None,31497.6,True
+2025-11-21 19:22:23,Realme Realme Narzo 60 (6GB/128GB),None,None,None,39648.0,True
+2025-11-21 19:22:23,Oppo Oppo A78 (8GB/128GB),None,None,None,64389.6,True
+2025-11-27 19:23:52,OnePlus Nord 3 (8GB/128GB),None,None,None,47413.2,True
+2025-11-27 19:23:52,Apple iPhone 13 (8GB/256GB),None,None,None,46212.0,True
+2025-11-27 19:23:53,Xiaomi Redmi Note 12 (4GB/64GB),None,None,None,34071.6,True
+2025-11-27 19:23:54,Samsung Galaxy S21 FE (4GB/64GB),None,None,None,14164.8,True
+2025-11-27 19:23:54,Xiaomi Poco X5 Pro (6GB/128GB),None,None,None,67231.2,True
+2025-11-27 19:23:54,Realme Realme 11 Pro (8GB/128GB),None,None,None,24553.2,True
+2025-11-27 19:23:54,Apple iPhone 14 (4GB/64GB),None,None,None,22510.8,True
+2025-11-27 19:23:55,Samsung Galaxy M34 (8GB/128GB),None,None,None,20977.2,True
+2025-11-27 19:23:55,Vivo Vivo V29 (8GB/128GB),None,None,None,40428.0,True
+2025-11-27 19:23:57,Realme Realme Narzo 60 (6GB/128GB),None,None,None,39648.0,True
+2025-11-27 19:23:59,Apple iPhone SE 3 (6GB/128GB),None,None,None,69842.4,True
+2025-11-27 19:23:59,Oppo Oppo A78 (8GB/128GB),None,None,None,64389.6,True
+2025-11-27 19:23:59,Samsung Galaxy A54 (8GB/128GB),None,None,None,43839.6,True
+2025-11-27 19:24:01,Samsung Galaxy A14 (8GB/256GB),None,None,None,59953.2,True
+2025-11-27 19:24:03,OnePlus Nord CE 3 Lite (8GB/256GB),None,None,None,31720.8,True
+2025-11-27 19:24:03,Xiaomi Redmi 12C (4GB/64GB),None,None,None,10939.2,True
+2025-11-27 19:24:03,Apple iPhone 12 (4GB/64GB),None,None,None,28776.0,True
+2025-11-27 19:24:05,Vivo Vivo T2 (6GB/128GB),None,None,None,28426.8,True
+2025-11-27 19:24:05,OnePlus Ace 2V (4GB/64GB),None,None,None,36075.6,True
+2025-11-27 19:24:09,Vivo Vivo Y16 (8GB/128GB),None,None,None,21789.6,True
+2025-11-27 19:24:15,Xiaomi Poco M6 Pro (8GB/256GB),None,None,None,48716.4,True
+2025-11-27 19:24:17,Oppo Oppo Reno 10 (6GB/128GB),None,None,None,31497.6,True
+2025-11-27 19:54:02,Apple iPhone 13,52990,None,None,52990.0,False
+2025-11-27 19:54:03,Realme Narzo 60,11998,None,None,11998.0,False
+2025-11-27 19:54:04,OnePlus Nord 3,1999,None,None,1999.0,False
+2025-11-27 19:54:04,Xiaomi Redmi Note 12 5G,11999,None,None,11999.0,False
+2025-11-27 19:54:04,Samsung Galaxy S21 FE 5G,29890,None,None,29890.0,False
+2025-11-27 19:54:04,Xiaomi Redmi Note 13 5G,15950,None,None,15950.0,False
+2025-11-27 19:54:04,Samsung Galaxy M34 5G,14999,None,None,14999.0,False
+2025-11-27 19:54:04,Vivo Y16,8999,None,None,8999.0,False
+2025-11-27 19:54:04,Oppo A78,16999,None,None,16999.0,False
+2025-11-27 19:54:06,Samsung Galaxy A54 5G,24999,None,None,24999.0,False

@@ -1,0 +1,11 @@
+product_name,category,brand,cost_price,current_price,competitor_price,stock
+Apple iPhone 13,smartphone,Apple,38000,44990,52990.0,50
+Samsung Galaxy M34 5G,smartphone,Samsung,16000,20999,14999.0,100
+Xiaomi Redmi Note 12 5G,smartphone,Xiaomi,10000,12499,11999.0,200
+Samsung Galaxy S21 FE 5G,smartphone,Samsung,25000,29890,29890.0,30
+Xiaomi Redmi Note 13 5G,smartphone,Xiaomi,12000,15999,15950.0,150
+OnePlus Nord 3,smartphone,OnePlus,22000,26999,1999.0,40
+Realme Narzo 60,smartphone,Realme,14000,17999,11998.0,80
+Vivo Y16,smartphone,Vivo,9000,11999,8999.0,120
+Oppo A78,smartphone,Oppo,20000,23999,16999.0,60
+Samsung Galaxy A54 5G,smartphone,Samsung,30000,34999,24999.0,35

@@ -1,0 +1,23 @@
+product_name,category,brand,model_name,variant,cost_price,current_price,competitor_price,stock,demand_score
+Samsung Galaxy A14 (8GB/256GB),Mobile,Samsung,Galaxy A14,8GB/256GB,49961,54060,59953.2,238,33
+Samsung Galaxy M34 (8GB/128GB),Mobile,Samsung,Galaxy M34,8GB/128GB,17481,19592,20977.2,11,78
+Samsung Galaxy S21 FE (4GB/64GB),Mobile,Samsung,Galaxy S21 FE,4GB/64GB,11804,15905,14164.8,171,23
+Samsung Galaxy A54 (8GB/128GB),Mobile,Samsung,Galaxy A54,8GB/128GB,36533,38070,43839.6,78,78
+Apple iPhone 12 (4GB/64GB),Mobile,Apple,iPhone 12,4GB/64GB,23980,25077,28776.0,238,21
+Apple iPhone 13 (8GB/256GB),Mobile,Apple,iPhone 13,8GB/256GB,38510,39364,64900.0,28,69
+Apple iPhone 14 (4GB/64GB),Mobile,Apple,iPhone 14,4GB/64GB,18759,22104,22510.8,138,60
+Apple iPhone SE 3 (6GB/128GB),Mobile,Apple,iPhone SE 3,6GB/128GB,58202,62060,69842.4,83,91
+Xiaomi Redmi Note 12 (4GB/64GB),Mobile,Xiaomi,Redmi Note 12,4GB/64GB,28393,30755,34071.6,158,84
+Xiaomi Redmi 12C (4GB/64GB),Mobile,Xiaomi,Redmi 12C,4GB/64GB,9116,14724,10939.2,49,43
+Xiaomi Poco X5 Pro (6GB/128GB),Mobile,Xiaomi,Poco X5 Pro,6GB/128GB,56026,57372,67231.2,179,32
+Xiaomi Poco M6 Pro (8GB/256GB),Mobile,Xiaomi,Poco M6 Pro,8GB/256GB,40597,41965,48716.4,190,77
+OnePlus Nord CE 3 Lite (8GB/256GB),Mobile,OnePlus,Nord CE 3 Lite,8GB/256GB,26434,30878,31720.8,217,2
+OnePlus Nord 3 (8GB/128GB),Mobile,OnePlus,Nord 3,8GB/128GB,39511,43719,47413.2,79,55
+OnePlus Ace 2V (4GB/64GB),Mobile,OnePlus,Ace 2V,4GB/64GB,30063,35995,36075.6,100,69
+Realme Realme 11 Pro (8GB/128GB),Mobile,Realme,Realme 11 Pro,8GB/128GB,20461,22044,24553.2,123,63
+Realme Realme Narzo 60 (6GB/128GB),Mobile,Realme,Realme Narzo 60,6GB/128GB,33040,38466,39648.0,271,67
+Vivo Vivo Y16 (8GB/128GB),Mobile,Vivo,Vivo Y16,8GB/128GB,18158,20177,21789.6,138,87
+Vivo Vivo V29 (8GB/128GB),Mobile,Vivo,Vivo V29,8GB/128GB,33690,36552,40428.0,225,55
+Vivo Vivo T2 (6GB/128GB),Mobile,Vivo,Vivo T2,6GB/128GB,23689,26486,28426.8,75,47
+Oppo Oppo A78 (8GB/128GB),Mobile,Oppo,Oppo A78,8GB/128GB,53658,58895,64389.6,129,98
+Oppo Oppo Reno 10 (6GB/128GB),Mobile,Oppo,Oppo Reno 10,6GB/128GB,26248,27559,31497.6,263,84

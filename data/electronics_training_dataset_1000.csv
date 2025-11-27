@@ -1,0 +1,1001 @@
+product_name                       , category         , brand  , model_number, cost_price, competitor_price, stock, demand_score, current_price
+Apple APP-AH276 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-AH276   ,      16795,                 ,   106,           72,         22424
+Apple APP-PA026 Smartwatch         , Smartwatch       , Apple  , APP-PA026   ,      14964,                 ,   121,           83,         18391
+Xiaomi XIA-SS442 Smartwatch        , Smartwatch       , Xiaomi , XIA-SS442   ,       7426,                 ,   116,          100,          8820
+Samsung SAM-TE422 Camera           , Camera           , Samsung, SAM-TE422   ,      31023,                 ,    52,            2,         38631
+Dell DEL-CJ332 Camera              , Camera           , Dell   , DEL-CJ332   ,      74735,                 ,    37,            2,         97135
+Boat BOA-NZ358 Mobile              , Mobile           , Boat   , BOA-NZ358   ,      11311,                 ,   160,           76,         15243
+Dell DEL-PS022 Smartwatch          , Smartwatch       , Dell   , DEL-PS022   ,      22769,                 ,   235,           89,         27491
+Xiaomi XIA-WJ481 Mobile            , Mobile           , Xiaomi , XIA-WJ481   ,      31658,                 ,   219,           60,         37038
+Xiaomi XIA-RS606 Earbuds           , Earbuds          , Xiaomi , XIA-RS606   ,       1475,                 ,   189,           47,          1651
+Xiaomi XIA-EJ965 Smartwatch        , Smartwatch       , Xiaomi , XIA-EJ965   ,       6005,                 ,    54,           64,          6664
+Dell DEL-VU203 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-VU203   ,      18912,                 ,    50,            7,         20121
+Apple APP-FY836 Earbuds            , Earbuds          , Apple  , APP-FY836   ,       6664,                 ,    17,            4,          7897
+Lenovo LEN-LG252 Smart TV          , Smart TV         , Lenovo , LEN-LG252   ,      28792,                 ,   241,            9,         38572
+LG LG-XK295 Smartwatch             , Smartwatch       , LG     , LG-XK295    ,      26897,                 ,    83,           92,         29029
+Samsung SAM-WD165 Mobile           , Mobile           , Samsung, SAM-WD165   ,      29483,                 ,     7,           47,         32036
+LG LG-PM259 Smart TV               , Smart TV         , LG     , LG-PM259    ,      55920,                 ,   103,            4,         63057
+Apple APP-RN261 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-RN261   ,       2021,                 ,   105,            4,          2437
+Sony SON-LY825 Smart TV            , Smart TV         , Sony   , SON-LY825   ,      60757,                 ,   145,           90,         64365
+JBL JBL-XW266 Laptop               , Laptop           , JBL    , JBL-XW266   ,      96211,                 ,   189,          100,        128138
+Dell DEL-TO750 Laptop              , Laptop           , Dell   , DEL-TO750   ,      57606,                 ,   199,           78,         76417
+Boat BOA-AY883 Earbuds             , Earbuds          , Boat   , BOA-AY883   ,       4298,                 ,   189,           40,          5184
+Xiaomi XIA-WY040 Mobile            , Mobile           , Xiaomi , XIA-WY040   ,      30276,                 ,    81,           53,         35320
+JBL JBL-TD452 Camera               , Camera           , JBL    , JBL-TD452   ,     101807,                 ,   187,           41,        117793
+Canon CAN-LF572 Camera             , Camera           , Canon  , CAN-LF572   ,      53044,                 ,    64,           89,         68461
+LG LG-ZQ451 Earbuds                , Earbuds          , LG     , LG-ZQ451    ,       3068,                 ,   235,            8,          3932
+Apple APP-IP220 Laptop             , Laptop           , Apple  , APP-IP220   ,      73190,                 ,    80,            8,         94754
+Samsung SAM-FX802 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-FX802   ,      14986,                 ,   122,            5,         19287
+Boat BOA-FD954 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-FD954   ,       4561,                 ,    40,           28,          5279
+Boat BOA-UE044 Camera              , Camera           , Boat   , BOA-UE044   ,      37662,                 ,    11,           34,         49149
+Samsung SAM-RZ043 Smart TV         , Smart TV         , Samsung, SAM-RZ043   ,      72256,                 ,   150,           62,         77246
+Apple APP-GE442 Camera             , Camera           , Apple  , APP-GE442   ,     138684,                 ,   103,           86,        175973
+Apple APP-LW509 Laptop             , Laptop           , Apple  , APP-LW509   ,      49538,                 ,   226,           47,         60355
+Samsung SAM-ZY814 Camera           , Camera           , Samsung, SAM-ZY814   ,     113806,                 ,   102,           27,        145818
+LG LG-XE039 Laptop                 , Laptop           , LG     , LG-XE039    ,      25206,                 ,    41,           77,         29699
+Boat BOA-HS776 Camera              , Camera           , Boat   , BOA-HS776   ,      65015,                 ,    51,           96,         80678
+Sony SON-EF070 Smart TV            , Smart TV         , Sony   , SON-EF070   ,      38141,                 ,   230,           15,         41642
+Samsung SAM-BM950 Earbuds          , Earbuds          , Samsung, SAM-BM950   ,       3742,                 ,    12,           32,          4157
+Apple APP-WB084 Smartwatch         , Smartwatch       , Apple  , APP-WB084   ,      19198,                 ,    85,           28,         21826
+Xiaomi XIA-PB065 Smartwatch        , Smartwatch       , Xiaomi , XIA-PB065   ,      13817,                 ,    61,           57,         17095
+HP HP-FS236 Earbuds                , Earbuds          , HP     , HP-FS236    ,       3560,                 ,    27,           44,          4668
+Boat BOA-IT049 Earbuds             , Earbuds          , Boat   , BOA-IT049   ,       1863,                 ,    74,           92,          2455
+Apple APP-NN130 Mobile             , Mobile           , Apple  , APP-NN130   ,      27976,                 ,   224,            1,         32043
+Dell DEL-HL539 Laptop              , Laptop           , Dell   , DEL-HL539   ,      91842,                 ,   115,           77,        108202
+Lenovo LEN-NR591 Camera            , Camera           , Lenovo , LEN-NR591   ,      70016,                 ,   197,           72,         79918
+HP HP-DC526 Laptop                 , Laptop           , HP     , HP-DC526    ,      30530,                 ,   164,           97,         35879
+Dell DEL-FQ249 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-FQ249   ,      14545,                 ,   206,           59,         16745
+Samsung SAM-CL207 Camera           , Camera           , Samsung, SAM-CL207   ,     108557,                 ,   215,           52,        121109
+HP HP-EL751 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-EL751    ,      19237,                 ,    51,           12,         25807
+Sony SON-OV511 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-OV511   ,      12649,                 ,   100,           56,         15984
+Dell DEL-XU882 Earbuds             , Earbuds          , Dell   , DEL-XU882   ,       3652,                 ,     1,            2,          4126
+Lenovo LEN-CU846 Laptop            , Laptop           , Lenovo , LEN-CU846   ,      25854,                 ,   224,            1,         29307
+Xiaomi XIA-WZ880 Laptop            , Laptop           , Xiaomi , XIA-WZ880   ,      71717,                 ,   171,           90,         78420
+Dell DEL-UK672 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-UK672   ,       6791,                 ,   246,           68,          8256
+Apple APP-JB419 Laptop             , Laptop           , Apple  , APP-JB419   ,      77662,                 ,   122,           17,         99289
+HP HP-VW263 Earbuds                , Earbuds          , HP     , HP-VW263    ,       1266,                 ,    68,           98,          1634
+Apple APP-ZH639 Earbuds            , Earbuds          , Apple  , APP-ZH639   ,        697,                 ,   239,           16,           815
+Dell DEL-YC919 Smartwatch          , Smartwatch       , Dell   , DEL-YC919   ,      28184,                 ,   186,           70,         30867
+Samsung SAM-CL736 Earbuds          , Earbuds          , Samsung, SAM-CL736   ,       3011,                 ,   147,           59,          3198
+Apple APP-KO270 Smartwatch         , Smartwatch       , Apple  , APP-KO270   ,      17243,                 ,   194,           19,         18190
+JBL JBL-RY714 Camera               , Camera           , JBL    , JBL-RY714   ,     148983,                 ,   232,           33,        160730
+Dell DEL-QR195 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-QR195   ,      19343,                 ,    81,            1,         22554
+LG LG-IS516 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-IS516    ,       2802,                 ,   216,           50,          3228
+Lenovo LEN-TE548 Smart TV          , Smart TV         , Lenovo , LEN-TE548   ,      67254,                 ,    41,           99,         81541
+HP HP-FU634 Earbuds                , Earbuds          , HP     , HP-FU634    ,        762,                 ,    89,           60,           950
+Xiaomi XIA-NU976 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-NU976   ,      14168,                 ,    47,           12,         15904
+JBL JBL-RQ092 Earbuds              , Earbuds          , JBL    , JBL-RQ092   ,       5048,                 ,   246,            9,          6663
+Xiaomi XIA-UD096 Earbuds           , Earbuds          , Xiaomi , XIA-UD096   ,       7900,                 ,    47,           80,          9122
+Apple APP-LX573 Camera             , Camera           , Apple  , APP-LX573   ,      81690,                 ,    53,           33,        106760
+Xiaomi XIA-DR888 Smart TV          , Smart TV         , Xiaomi , XIA-DR888   ,      32183,                 ,   112,           72,         42007
+LG LG-FU645 Camera                 , Camera           , LG     , LG-FU645    ,      20539,                 ,    83,           99,         27102
+Apple APP-LU695 Camera             , Camera           , Apple  , APP-LU695   ,     141063,                 ,    98,           25,        152410
+Boat BOA-PS585 Camera              , Camera           , Boat   , BOA-PS585   ,      36357,                 ,    53,           35,         44159
+Boat BOA-LT827 Laptop              , Laptop           , Boat   , BOA-LT827   ,      86135,                 ,   227,           33,        116139
+Lenovo LEN-GL723 Smart TV          , Smart TV         , Lenovo , LEN-GL723   ,      58467,                 ,    20,           48,         65551
+Apple APP-DG670 Smartwatch         , Smartwatch       , Apple  , APP-DG670   ,       6987,                 ,   135,            7,          8104
+Dell DEL-OK249 Smart TV            , Smart TV         , Dell   , DEL-OK249   ,      64064,                 ,   186,           86,         77694
+Samsung SAM-WT303 Smartwatch       , Smartwatch       , Samsung, SAM-WT303   ,      22830,                 ,   157,           38,         25686
+LG LG-WY475 Camera                 , Camera           , LG     , LG-WY475    ,      62333,                 ,   181,            8,         72800
+Xiaomi XIA-MH436 Smartwatch        , Smartwatch       , Xiaomi , XIA-MH436   ,      22738,                 ,    20,           30,         26838
+LG LG-SV995 Camera                 , Camera           , LG     , LG-SV995    ,     112888,                 ,   191,           97,        138070
+Canon CAN-OA614 Smart TV           , Smart TV         , Canon  , CAN-OA614   ,      60764,                 ,     3,           35,         72902
+HP HP-JF373 Mobile                 , Mobile           , HP     , HP-JF373    ,      14208,                 ,   157,           93,         19157
+LG LG-GC059 Camera                 , Camera           , LG     , LG-GC059    ,      97989,                 ,    98,           37,        129782
+Xiaomi XIA-QU679 Earbuds           , Earbuds          , Xiaomi , XIA-QU679   ,       2827,                 ,    45,           53,          3248
+Samsung SAM-QG419 Laptop           , Laptop           , Samsung, SAM-QG419   ,      91235,                 ,   190,           85,        119144
+HP HP-TE671 Smart TV               , Smart TV         , HP     , HP-TE671    ,      26102,                 ,    66,           18,         29509
+Sony SON-ZC036 Camera              , Camera           , Sony   , SON-ZC036   ,     118746,                 ,    23,           32,        144991
+LG LG-YF582 Smart TV               , Smart TV         , LG     , LG-YF582    ,      24014,                 ,   193,           27,         32347
+HP HP-WP197 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-WP197    ,      11729,                 ,    16,           33,         15402
+JBL JBL-LJ538 Earbuds              , Earbuds          , JBL    , JBL-LJ538   ,       4841,                 ,   220,           42,          5605
+Boat BOA-CY687 Camera              , Camera           , Boat   , BOA-CY687   ,      44592,                 ,    59,            7,         55002
+Sony SON-TZ285 Smart TV            , Smart TV         , Sony   , SON-TZ285   ,      22368,                 ,   237,           16,         23962
+Boat BOA-LT288 Smart TV            , Smart TV         , Boat   , BOA-LT288   ,      75766,                 ,    97,           66,         80182
+HP HP-WG463 Mobile                 , Mobile           , HP     , HP-WG463    ,      16966,                 ,    50,           25,         21234
+Boat BOA-WE273 Mobile              , Mobile           , Boat   , BOA-WE273   ,      28677,                 ,    85,           49,         35193
+HP HP-ON124 Smartwatch             , Smartwatch       , HP     , HP-ON124    ,      12907,                 ,    14,           54,         13702
+Xiaomi XIA-RQ470 Smartwatch        , Smartwatch       , Xiaomi , XIA-RQ470   ,      18338,                 ,   224,            8,         19953
+LG LG-RH545 Laptop                 , Laptop           , LG     , LG-RH545    ,      44508,                 ,   107,            5,         50359
+JBL JBL-IS221 Smart TV             , Smart TV         , JBL    , JBL-IS221   ,      74021,                 ,   115,           94,         78869
+Dell DEL-DN712 Laptop              , Laptop           , Dell   , DEL-DN712   ,      94678,                 ,   167,           52,        119280
+HP HP-SZ521 Smart TV               , Smart TV         , HP     , HP-SZ521    ,      37019,                 ,   146,           17,         46806
+HP HP-FE052 Laptop                 , Laptop           , HP     , HP-FE052    ,      98847,                 ,    91,           58,        111820
+JBL JBL-HY671 Mobile               , Mobile           , JBL    , JBL-HY671   ,      31945,                 ,   116,           62,         33785
+Canon CAN-HM392 Mobile             , Mobile           , Canon  , CAN-HM392   ,       7150,                 ,   244,            1,          9000
+Boat BOA-CB456 Camera              , Camera           , Boat   , BOA-CB456   ,      81617,                 ,   238,           34,        108106
+Sony SON-VY025 Laptop              , Laptop           , Sony   , SON-VY025   ,      71175,                 ,    47,           89,         86461
+Canon CAN-PQ739 Smart TV           , Smart TV         , Canon  , CAN-PQ739   ,      65543,                 ,   128,           16,         87197
+Canon CAN-ZH667 Earbuds            , Earbuds          , Canon  , CAN-ZH667   ,       5808,                 ,   190,           69,          7384
+Xiaomi XIA-QG025 Camera            , Camera           , Xiaomi , XIA-QG025   ,     128429,                 ,   194,           76,        162977
+Samsung SAM-KR402 Laptop           , Laptop           , Samsung, SAM-KR402   ,      92215,                 ,    85,           57,        101214
+Boat BOA-BG275 Earbuds             , Earbuds          , Boat   , BOA-BG275   ,       3856,                 ,    68,           47,          4183
+Xiaomi XIA-LO698 Camera            , Camera           , Xiaomi , XIA-LO698   ,      93832,                 ,   189,           69,        107289
+Samsung SAM-EH752 Mobile           , Mobile           , Samsung, SAM-EH752   ,      35899,                 ,   217,           48,         37878
+Boat BOA-RS954 Mobile              , Mobile           , Boat   , BOA-RS954   ,      35222,                 ,   221,           23,         40642
+Canon CAN-BL320 Mobile             , Mobile           , Canon  , CAN-BL320   ,      44649,                 ,    68,          100,         55130
+Canon CAN-PA785 Bluetooth Speaker  , Bluetooth Speaker, Canon  , CAN-PA785   ,       3849,                 ,   137,           19,          4342
+Sony SON-MQ915 Camera              , Camera           , Sony   , SON-MQ915   ,     115793,                 ,   247,           69,        138987
+Boat BOA-ZM431 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-ZM431   ,      17364,                 ,    23,           80,         19080
+Dell DEL-KM647 Laptop              , Laptop           , Dell   , DEL-KM647   ,      55977,                 ,   127,           32,         59221
+Boat BOA-CG178 Mobile              , Mobile           , Boat   , BOA-CG178   ,       6851,                 ,   177,           35,          8376
+Samsung SAM-RO413 Camera           , Camera           , Samsung, SAM-RO413   ,     106680,                 ,   178,           43,        126679
+Boat BOA-QT259 Camera              , Camera           , Boat   , BOA-QT259   ,     118691,                 ,   160,           40,        138373
+Boat BOA-DZ621 Smart TV            , Smart TV         , Boat   , BOA-DZ621   ,      89449,                 ,    28,           13,         99467
+Samsung SAM-OC994 Smartwatch       , Smartwatch       , Samsung, SAM-OC994   ,      23491,                 ,   129,           35,         25375
+Lenovo LEN-VM752 Mobile            , Mobile           , Lenovo , LEN-VM752   ,      33350,                 ,     7,           93,         35729
+Boat BOA-ZG539 Camera              , Camera           , Boat   , BOA-ZG539   ,     129585,                 ,   161,            7,        162562
+Sony SON-WH749 Smartwatch          , Smartwatch       , Sony   , SON-WH749   ,       6267,                 ,   113,           75,          7883
+HP HP-VH259 Smartwatch             , Smartwatch       , HP     , HP-VH259    ,       3412,                 ,   216,           21,          3622
+Sony SON-LM373 Smart TV            , Smart TV         , Sony   , SON-LM373   ,      64425,                 ,   151,           64,         75830
+Xiaomi XIA-ZG384 Earbuds           , Earbuds          , Xiaomi , XIA-ZG384   ,       3286,                 ,   239,           36,          4426
+Boat BOA-SV368 Earbuds             , Earbuds          , Boat   , BOA-SV368   ,       5573,                 ,    95,           24,          6269
+Boat BOA-ZD931 Laptop              , Laptop           , Boat   , BOA-ZD931   ,     113726,                 ,    36,           12,        151167
+Boat BOA-CX018 Camera              , Camera           , Boat   , BOA-CX018   ,      86180,                 ,    98,           30,        109618
+Apple APP-MZ366 Laptop             , Laptop           , Apple  , APP-MZ366   ,      39397,                 ,   216,           86,         47235
+Dell DEL-WW337 Camera              , Camera           , Dell   , DEL-WW337   ,     134180,                 ,   176,          100,        176937
+Boat BOA-WA069 Camera              , Camera           , Boat   , BOA-WA069   ,      74163,                 ,   127,           52,         99008
+Apple APP-LC684 Laptop             , Laptop           , Apple  , APP-LC684   ,      79098,                 ,   143,           69,         94752
+HP HP-XB723 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-XB723    ,       5491,                 ,   122,           85,          6306
+Xiaomi XIA-NO710 Laptop            , Laptop           , Xiaomi , XIA-NO710   ,      85566,                 ,    38,           53,        109900
+LG LG-QG914 Camera                 , Camera           , LG     , LG-QG914    ,      36689,                 ,   222,            5,         39156
+Boat BOA-GA896 Earbuds             , Earbuds          , Boat   , BOA-GA896   ,       7830,                 ,   234,           75,         10306
+Apple APP-LI564 Laptop             , Laptop           , Apple  , APP-LI564   ,      31801,                 ,     8,           74,         42632
+Boat BOA-VF342 Earbuds             , Earbuds          , Boat   , BOA-VF342   ,       1453,                 ,   229,            7,          1795
+Dell DEL-OZ296 Smartwatch          , Smartwatch       , Dell   , DEL-OZ296   ,      24677,                 ,   169,            9,         31100
+Samsung SAM-OR706 Earbuds          , Earbuds          , Samsung, SAM-OR706   ,       3493,                 ,   193,            5,          4602
+HP HP-UF821 Smart TV               , Smart TV         , HP     , HP-UF821    ,      74693,                 ,   239,           65,        100536
+Lenovo LEN-TT610 Earbuds           , Earbuds          , Lenovo , LEN-TT610   ,       1865,                 ,    70,           89,          2413
+Lenovo LEN-BU031 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-BU031   ,       2324,                 ,    69,           31,          2965
+Dell DEL-TE159 Earbuds             , Earbuds          , Dell   , DEL-TE159   ,       2310,                 ,   181,           39,          2964
+JBL JBL-XV284 Smartwatch           , Smartwatch       , JBL    , JBL-XV284   ,      23570,                 ,    18,           39,         26507
+HP HP-TI191 Camera                 , Camera           , HP     , HP-TI191    ,      30485,                 ,   140,           92,         36514
+Lenovo LEN-SZ983 Laptop            , Laptop           , Lenovo , LEN-SZ983   ,      28709,                 ,   219,           72,         30629
+LG LG-AN466 Camera                 , Camera           , LG     , LG-AN466    ,      57918,                 ,   204,           92,         73776
+LG LG-VY120 Smartwatch             , Smartwatch       , LG     , LG-VY120    ,       3504,                 ,   112,           25,          4073
+Dell DEL-XF089 Smartwatch          , Smartwatch       , Dell   , DEL-XF089   ,       3823,                 ,   116,            6,          4620
+Lenovo LEN-KD934 Earbuds           , Earbuds          , Lenovo , LEN-KD934   ,       2605,                 ,   159,           45,          2744
+Xiaomi XIA-XD467 Mobile            , Mobile           , Xiaomi , XIA-XD467   ,      40620,                 ,    79,           85,         46583
+LG LG-PS868 Smartwatch             , Smartwatch       , LG     , LG-PS868    ,      14003,                 ,   226,           19,         15013
+LG LG-YH624 Smartwatch             , Smartwatch       , LG     , LG-YH624    ,      16843,                 ,    46,           49,         18066
+Dell DEL-CR593 Laptop              , Laptop           , Dell   , DEL-CR593   ,      63413,                 ,     0,           54,         72186
+HP HP-ED846 Smart TV               , Smart TV         , HP     , HP-ED846    ,      88866,                 ,   184,           75,        117333
+Lenovo LEN-PA721 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-PA721   ,      14323,                 ,    15,           72,         19158
+Xiaomi XIA-BT228 Smartwatch        , Smartwatch       , Xiaomi , XIA-BT228   ,      27933,                 ,   155,            8,         33148
+Sony SON-UP299 Earbuds             , Earbuds          , Sony   , SON-UP299   ,       1645,                 ,    89,            8,          1820
+HP HP-UC813 Smartwatch             , Smartwatch       , HP     , HP-UC813    ,      22129,                 ,    27,           92,         24758
+Xiaomi XIA-PA214 Camera            , Camera           , Xiaomi , XIA-PA214   ,     142016,                 ,   154,           63,        160191
+Apple APP-MU515 Mobile             , Mobile           , Apple  , APP-MU515   ,      44088,                 ,   211,           77,         50386
+Samsung SAM-SX636 Smartwatch       , Smartwatch       , Samsung, SAM-SX636   ,       5779,                 ,   140,           46,          6537
+Samsung SAM-ZW417 Mobile           , Mobile           , Samsung, SAM-ZW417   ,      11713,                 ,   196,           47,         13762
+Apple APP-XI116 Smart TV           , Smart TV         , Apple  , APP-XI116   ,      85545,                 ,   241,            5,        113759
+JBL JBL-SJ525 Smartwatch           , Smartwatch       , JBL    , JBL-SJ525   ,       4015,                 ,    64,           18,          4669
+Apple APP-UC685 Smart TV           , Smart TV         , Apple  , APP-UC685   ,      28415,                 ,    10,           85,         38234
+Xiaomi XIA-LX483 Camera            , Camera           , Xiaomi , XIA-LX483   ,      38833,                 ,    85,           59,         45211
+Apple APP-II296 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-II296   ,       7938,                 ,   160,           98,          9690
+Apple APP-CC473 Smart TV           , Smart TV         , Apple  , APP-CC473   ,      28702,                 ,   239,           55,         32491
+JBL JBL-BY564 Laptop               , Laptop           , JBL    , JBL-BY564   ,      54189,                 ,   196,           95,         68143
+Lenovo LEN-YK902 Camera            , Camera           , Lenovo , LEN-YK902   ,      95642,                 ,   228,           53,        116360
+Dell DEL-CN148 Earbuds             , Earbuds          , Dell   , DEL-CN148   ,       3224,                 ,    82,           17,          4117
+JBL JBL-JT588 Earbuds              , Earbuds          , JBL    , JBL-JT588   ,       7752,                 ,   109,            1,          9187
+Canon CAN-PQ098 Camera             , Camera           , Canon  , CAN-PQ098   ,      60106,                 ,     3,           62,         68065
+Samsung SAM-ES330 Earbuds          , Earbuds          , Samsung, SAM-ES330   ,       5044,                 ,    31,           34,          6312
+Sony SON-OK160 Camera              , Camera           , Sony   , SON-OK160   ,      51187,                 ,    38,           26,         57872
+JBL JBL-FK337 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-FK337   ,      17633,                 ,   117,            3,         21267
+Canon CAN-PW170 Camera             , Camera           , Canon  , CAN-PW170   ,     109074,                 ,   192,           54,        124598
+HP HP-LL642 Mobile                 , Mobile           , HP     , HP-LL642    ,      14427,                 ,   221,           57,         17576
+Apple APP-IC655 Smartwatch         , Smartwatch       , Apple  , APP-IC655   ,      25928,                 ,    46,           23,         28266
+Samsung SAM-FZ029 Earbuds          , Earbuds          , Samsung, SAM-FZ029   ,       3778,                 ,   141,           66,          4856
+Sony SON-TH144 Camera              , Camera           , Sony   , SON-TH144   ,      68682,                 ,   191,           98,         90725
+LG LG-NF563 Laptop                 , Laptop           , LG     , LG-NF563    ,      31949,                 ,    81,           30,         39374
+Samsung SAM-LL034 Smart TV         , Smart TV         , Samsung, SAM-LL034   ,      45934,                 ,   190,           98,         54259
+Lenovo LEN-KC038 Smart TV          , Smart TV         , Lenovo , LEN-KC038   ,      73413,                 ,    78,           30,         87014
+Boat BOA-VX082 Smartwatch          , Smartwatch       , Boat   , BOA-VX082   ,       7854,                 ,    80,            5,          9480
+LG LG-NK333 Smartwatch             , Smartwatch       , LG     , LG-NK333    ,       7892,                 ,   183,           17,          8634
+Apple APP-NC593 Laptop             , Laptop           , Apple  , APP-NC593   ,     112369,                 ,    83,           88,        143908
+Lenovo LEN-VG116 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-VG116   ,       5164,                 ,    52,           66,          6940
+Lenovo LEN-BY645 Camera            , Camera           , Lenovo , LEN-BY645   ,      84836,                 ,    42,           75,         94400
+Boat BOA-RW693 Smartwatch          , Smartwatch       , Boat   , BOA-RW693   ,      21290,                 ,   150,           55,         25786
+Dell DEL-DB432 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-DB432   ,      16183,                 ,   117,           16,         17729
+Dell DEL-NI408 Mobile              , Mobile           , Dell   , DEL-NI408   ,      30071,                 ,   131,           56,         33198
+Lenovo LEN-WW654 Mobile            , Mobile           , Lenovo , LEN-WW654   ,      24271,                 ,    92,           32,         28935
+Samsung SAM-LV634 Smartwatch       , Smartwatch       , Samsung, SAM-LV634   ,      13161,                 ,    50,           19,         16195
+Samsung SAM-LV890 Laptop           , Laptop           , Samsung, SAM-LV890   ,      82108,                 ,    91,           42,         90374
+Sony SON-BS956 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-BS956   ,       4900,                 ,    69,            1,          5191
+Dell DEL-XK760 Earbuds             , Earbuds          , Dell   , DEL-XK760   ,       7288,                 ,    89,           46,          8659
+Lenovo LEN-II532 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-II532   ,      19977,                 ,   217,           45,         21747
+Lenovo LEN-ZP106 Camera            , Camera           , Lenovo , LEN-ZP106   ,      38624,                 ,    46,           86,         41624
+HP HP-ZS359 Earbuds                , Earbuds          , HP     , HP-ZS359    ,       2786,                 ,   106,           63,          3352
+JBL JBL-JU868 Earbuds              , Earbuds          , JBL    , JBL-JU868   ,       4643,                 ,    25,           36,          4960
+Lenovo LEN-XC650 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-XC650   ,      14568,                 ,    98,           52,         15665
+Sony SON-YI719 Earbuds             , Earbuds          , Sony   , SON-YI719   ,       3266,                 ,    55,           86,          3955
+Apple APP-HU557 Laptop             , Laptop           , Apple  , APP-HU557   ,      33717,                 ,   214,           78,         41656
+Samsung SAM-RW651 Smartwatch       , Smartwatch       , Samsung, SAM-RW651   ,      14479,                 ,   153,           14,         18332
+Canon CAN-VE446 Laptop             , Laptop           , Canon  , CAN-VE446   ,      40034,                 ,     6,            3,         45067
+Boat BOA-PT722 Laptop              , Laptop           , Boat   , BOA-PT722   ,      43030,                 ,   106,           18,         56082
+Boat BOA-XF654 Camera              , Camera           , Boat   , BOA-XF654   ,     120977,                 ,   114,           15,        139878
+HP HP-UN411 Camera                 , Camera           , HP     , HP-UN411    ,      61271,                 ,   228,           28,         69283
+Sony SON-WB439 Smartwatch          , Smartwatch       , Sony   , SON-WB439   ,      28289,                 ,    16,           86,         34489
+JBL JBL-WH729 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-WH729   ,      17509,                 ,   144,           13,         19013
+LG LG-CX889 Laptop                 , Laptop           , LG     , LG-CX889    ,      31168,                 ,    66,           18,         39076
+Samsung SAM-KJ302 Smart TV         , Smart TV         , Samsung, SAM-KJ302   ,      46734,                 ,   213,           34,         57261
+Apple APP-VQ712 Earbuds            , Earbuds          , Apple  , APP-VQ712   ,       5218,                 ,   112,           83,          6645
+Boat BOA-SD740 Camera              , Camera           , Boat   , BOA-SD740   ,     115776,                 ,   179,           26,        133285
+Samsung SAM-GV575 Mobile           , Mobile           , Samsung, SAM-GV575   ,      40529,                 ,    58,           70,         45526
+HP HP-GD266 Mobile                 , Mobile           , HP     , HP-GD266    ,       9812,                 ,   180,           22,         13051
+Apple APP-VM565 Mobile             , Mobile           , Apple  , APP-VM565   ,      32900,                 ,   246,            4,         36053
+Sony SON-HA351 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-HA351   ,      12613,                 ,    61,           94,         13949
+Apple APP-NJ957 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-NJ957   ,      14918,                 ,   136,            3,         15912
+JBL JBL-AW033 Smartwatch           , Smartwatch       , JBL    , JBL-AW033   ,      27818,                 ,   228,           36,         29361
+Samsung SAM-JB261 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-JB261   ,      10111,                 ,    65,           84,         10956
+Dell DEL-DJ368 Smartwatch          , Smartwatch       , Dell   , DEL-DJ368   ,      17043,                 ,    78,            6,         22585
+Boat BOA-ZM117 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-ZM117   ,       1117,                 ,   247,           51,          1259
+Samsung SAM-HB109 Smart TV         , Smart TV         , Samsung, SAM-HB109   ,      73441,                 ,   135,           26,         89379
+LG LG-ZO271 Smartwatch             , Smartwatch       , LG     , LG-ZO271    ,      16746,                 ,   132,           70,         21796
+Samsung SAM-WI138 Earbuds          , Earbuds          , Samsung, SAM-WI138   ,       6029,                 ,    18,           84,          6915
+Boat BOA-XK944 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-XK944   ,      17608,                 ,   139,           47,         22377
+JBL JBL-GC449 Camera               , Camera           , JBL    , JBL-GC449   ,      82584,                 ,    63,           38,        101841
+JBL JBL-HC324 Laptop               , Laptop           , JBL    , JBL-HC324   ,      26828,                 ,    99,           77,         32242
+LG LG-EL479 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-EL479    ,      19410,                 ,   133,           50,         23838
+LG LG-HZ906 Smartwatch             , Smartwatch       , LG     , LG-HZ906    ,      29615,                 ,   150,           10,         32289
+JBL JBL-UR916 Earbuds              , Earbuds          , JBL    , JBL-UR916   ,       2719,                 ,   167,            2,          3019
+Boat BOA-AB733 Camera              , Camera           , Boat   , BOA-AB733   ,      23512,                 ,    72,           17,         25666
+Samsung SAM-PR937 Smartwatch       , Smartwatch       , Samsung, SAM-PR937   ,      22208,                 ,   151,           38,         27286
+Sony SON-NK621 Smartwatch          , Smartwatch       , Sony   , SON-NK621   ,      29614,                 ,    94,           49,         38151
+Sony SON-MK522 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-MK522   ,      18988,                 ,   235,           50,         24668
+Xiaomi XIA-ZH941 Smart TV          , Smart TV         , Xiaomi , XIA-ZH941   ,      87444,                 ,   136,           34,        110989
+Apple APP-LX406 Camera             , Camera           , Apple  , APP-LX406   ,      99555,                 ,     0,           40,        115858
+Dell DEL-RS522 Camera              , Camera           , Dell   , DEL-RS522   ,      58925,                 ,    92,           72,         62721
+Lenovo LEN-EJ297 Laptop            , Laptop           , Lenovo , LEN-EJ297   ,      66832,                 ,    59,           30,         85220
+Boat BOA-AO385 Laptop              , Laptop           , Boat   , BOA-AO385   ,     111740,                 ,    82,           78,        123575
+Apple APP-BK744 Smartwatch         , Smartwatch       , Apple  , APP-BK744   ,      10577,                 ,    88,           42,         13986
+Canon CAN-BZ646 Smart TV           , Smart TV         , Canon  , CAN-BZ646   ,      63303,                 ,   103,           14,         75051
+Sony SON-WU619 Earbuds             , Earbuds          , Sony   , SON-WU619   ,       7443,                 ,   165,           97,          8848
+JBL JBL-XB111 Smart TV             , Smart TV         , JBL    , JBL-XB111   ,      38574,                 ,   144,           97,         47185
+Xiaomi XIA-IY882 Earbuds           , Earbuds          , Xiaomi , XIA-IY882   ,       3554,                 ,   205,           53,          4141
+JBL JBL-HQ606 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-HQ606   ,       4687,                 ,    38,           51,          5243
+Canon CAN-ER768 Smartwatch         , Smartwatch       , Canon  , CAN-ER768   ,      11389,                 ,   134,           51,         15169
+Samsung SAM-VA065 Smartwatch       , Smartwatch       , Samsung, SAM-VA065   ,      27519,                 ,   243,           15,         34622
+Xiaomi XIA-TK646 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-TK646   ,       6788,                 ,   221,           27,          8136
+Lenovo LEN-YM862 Earbuds           , Earbuds          , Lenovo , LEN-YM862   ,        919,                 ,   184,           97,          1240
+Samsung SAM-EK431 Mobile           , Mobile           , Samsung, SAM-EK431   ,      38154,                 ,   195,           86,         48577
+Dell DEL-TW913 Camera              , Camera           , Dell   , DEL-TW913   ,      74201,                 ,   122,           74,         94883
+Apple APP-IM220 Smartwatch         , Smartwatch       , Apple  , APP-IM220   ,      14104,                 ,   140,           31,         15244
+LG LG-WK998 Earbuds                , Earbuds          , LG     , LG-WK998    ,       5410,                 ,   215,           52,          7054
+Dell DEL-EE948 Smartwatch          , Smartwatch       , Dell   , DEL-EE948   ,      10863,                 ,   135,            5,         13043
+Samsung SAM-CK425 Smart TV         , Smart TV         , Samsung, SAM-CK425   ,      34382,                 ,   172,            2,         40319
+Samsung SAM-HP862 Mobile           , Mobile           , Samsung, SAM-HP862   ,      22478,                 ,   163,           36,         27637
+Apple APP-LW773 Mobile             , Mobile           , Apple  , APP-LW773   ,      39561,                 ,    68,           20,         44527
+Samsung SAM-OF505 Smart TV         , Smart TV         , Samsung, SAM-OF505   ,      34153,                 ,   133,           72,         39370
+JBL JBL-HZ619 Camera               , Camera           , JBL    , JBL-HZ619   ,      70318,                 ,    45,           12,         83580
+Dell DEL-UI971 Smart TV            , Smart TV         , Dell   , DEL-UI971   ,      37368,                 ,   103,           60,         42106
+LG LG-NB134 Smartwatch             , Smartwatch       , LG     , LG-NB134    ,      22915,                 ,   239,           68,         24763
+Sony SON-PN361 Smart TV            , Smart TV         , Sony   , SON-PN361   ,      84644,                 ,    71,           92,        112301
+HP HP-PN545 Smartwatch             , Smartwatch       , HP     , HP-PN545    ,      14641,                 ,    50,           29,         15675
+Samsung SAM-JR957 Smart TV         , Smart TV         , Samsung, SAM-JR957   ,      64327,                 ,    10,           23,         83762
+Lenovo LEN-AM977 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-AM977   ,       2792,                 ,   148,           90,          3026
+Xiaomi XIA-SP166 Smartwatch        , Smartwatch       , Xiaomi , XIA-SP166   ,       4645,                 ,   214,           57,          5136
+LG LG-DR091 Camera                 , Camera           , LG     , LG-DR091    ,     115158,                 ,   114,           40,        131675
+Boat BOA-ID647 Mobile              , Mobile           , Boat   , BOA-ID647   ,       8708,                 ,    52,            9,         10134
+Samsung SAM-SN594 Smart TV         , Smart TV         , Samsung, SAM-SN594   ,      77545,                 ,   116,           26,        100099
+Dell DEL-YL556 Smart TV            , Smart TV         , Dell   , DEL-YL556   ,      33224,                 ,   243,           25,         36024
+Lenovo LEN-QS612 Camera            , Camera           , Lenovo , LEN-QS612   ,      23070,                 ,   161,           91,         26624
+HP HP-FZ222 Smartwatch             , Smartwatch       , HP     , HP-FZ222    ,       6600,                 ,   186,           51,          8092
+Boat BOA-IJ972 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-IJ972   ,      18589,                 ,   198,           52,         20502
+Canon CAN-RJ989 Mobile             , Mobile           , Canon  , CAN-RJ989   ,      25956,                 ,   176,           29,         34377
+Sony SON-HH734 Camera              , Camera           , Sony   , SON-HH734   ,     109270,                 ,   153,           28,        123833
+Boat BOA-FV252 Earbuds             , Earbuds          , Boat   , BOA-FV252   ,       6088,                 ,    80,           84,          7333
+Canon CAN-TG092 Mobile             , Mobile           , Canon  , CAN-TG092   ,      25816,                 ,   117,           86,         28258
+Samsung SAM-CI461 Laptop           , Laptop           , Samsung, SAM-CI461   ,      46566,                 ,    48,           71,         62820
+Sony SON-KY841 Smartwatch          , Smartwatch       , Sony   , SON-KY841   ,      12984,                 ,   221,           87,         14840
+Dell DEL-HB762 Earbuds             , Earbuds          , Dell   , DEL-HB762   ,       2982,                 ,   210,           62,          3318
+Samsung SAM-XE819 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-XE819   ,       3079,                 ,    48,           45,          3665
+LG LG-UE782 Camera                 , Camera           , LG     , LG-UE782    ,     105397,                 ,    18,           18,        137118
+Samsung SAM-HP934 Mobile           , Mobile           , Samsung, SAM-HP934   ,      39536,                 ,   174,           66,         50711
+JBL JBL-NX152 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-NX152   ,       7645,                 ,   113,           94,          9038
+Apple APP-IT670 Camera             , Camera           , Apple  , APP-IT670   ,      53565,                 ,   131,            1,         68542
+HP HP-OT188 Earbuds                , Earbuds          , HP     , HP-OT188    ,       3835,                 ,   102,            3,          5018
+LG LG-NC611 Camera                 , Camera           , LG     , LG-NC611    ,      93623,                 ,   210,           34,        105952
+Xiaomi XIA-AJ423 Earbuds           , Earbuds          , Xiaomi , XIA-AJ423   ,       3951,                 ,    54,           92,          5097
+Canon CAN-AQ601 Smartwatch         , Smartwatch       , Canon  , CAN-AQ601   ,      29399,                 ,    92,            8,         37183
+Sony SON-KN873 Earbuds             , Earbuds          , Sony   , SON-KN873   ,       1332,                 ,    66,           88,          1619
+Lenovo LEN-XH621 Mobile            , Mobile           , Lenovo , LEN-XH621   ,      36678,                 ,    71,           54,         45905
+Boat BOA-TP454 Laptop              , Laptop           , Boat   , BOA-TP454   ,      56480,                 ,    66,           51,         72857
+Lenovo LEN-VT657 Smartwatch        , Smartwatch       , Lenovo , LEN-VT657   ,      27160,                 ,     7,           34,         33054
+Boat BOA-NJ918 Smartwatch          , Smartwatch       , Boat   , BOA-NJ918   ,      10970,                 ,    77,           32,         12318
+Xiaomi XIA-OD351 Smartwatch        , Smartwatch       , Xiaomi , XIA-OD351   ,      18149,                 ,   195,           37,         23576
+Canon CAN-MX401 Laptop             , Laptop           , Canon  , CAN-MX401   ,     111925,                 ,   175,           82,        127364
+Boat BOA-OO630 Smart TV            , Smart TV         , Boat   , BOA-OO630   ,      26150,                 ,   160,           23,         32425
+Samsung SAM-TP030 Earbuds          , Earbuds          , Samsung, SAM-TP030   ,       3656,                 ,   124,           19,          3867
+Apple APP-ZM211 Mobile             , Mobile           , Apple  , APP-ZM211   ,      19859,                 ,    81,            2,         24682
+Lenovo LEN-ZJ849 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-ZJ849   ,      11112,                 ,   147,           11,         14392
+LG LG-CZ818 Smart TV               , Smart TV         , LG     , LG-CZ818    ,      35358,                 ,   214,           12,         41153
+Sony SON-ZK198 Mobile              , Mobile           , Sony   , SON-ZK198   ,      20596,                 ,   221,            9,         23758
+Samsung SAM-ZM743 Camera           , Camera           , Samsung, SAM-ZM743   ,     145273,                 ,    98,           86,        190063
+Xiaomi XIA-LE187 Laptop            , Laptop           , Xiaomi , XIA-LE187   ,      42771,                 ,   201,           30,         46707
+Lenovo LEN-KT802 Mobile            , Mobile           , Lenovo , LEN-KT802   ,      25063,                 ,   214,           96,         33725
+Canon CAN-AP707 Mobile             , Mobile           , Canon  , CAN-AP707   ,      34529,                 ,    13,            9,         36488
+Boat BOA-GF805 Smart TV            , Smart TV         , Boat   , BOA-GF805   ,      55367,                 ,    24,           73,         69743
+Xiaomi XIA-VT356 Earbuds           , Earbuds          , Xiaomi , XIA-VT356   ,       6377,                 ,   237,            4,          7929
+Xiaomi XIA-HD623 Earbuds           , Earbuds          , Xiaomi , XIA-HD623   ,       7309,                 ,   108,           98,          8827
+JBL JBL-YW964 Mobile               , Mobile           , JBL    , JBL-YW964   ,      14996,                 ,   145,           85,         15828
+Samsung SAM-ZY673 Smart TV         , Smart TV         , Samsung, SAM-ZY673   ,      58243,                 ,    33,           17,         69858
+LG LG-DJ748 Smart TV               , Smart TV         , LG     , LG-DJ748    ,      42180,                 ,   121,           76,         52532
+Sony SON-UX595 Earbuds             , Earbuds          , Sony   , SON-UX595   ,       2122,                 ,    85,           85,          2295
+LG LG-GF698 Laptop                 , Laptop           , LG     , LG-GF698    ,      76226,                 ,   133,           91,        100618
+JBL JBL-SE266 Mobile               , Mobile           , JBL    , JBL-SE266   ,      10263,                 ,   236,           53,         11548
+Apple APP-ET754 Camera             , Camera           , Apple  , APP-ET754   ,      89182,                 ,   144,           26,        108979
+Dell DEL-HX217 Camera              , Camera           , Dell   , DEL-HX217   ,     116332,                 ,   121,           46,        135519
+Boat BOA-XS732 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-XS732   ,       4067,                 ,   192,           51,          5439
+HP HP-JN325 Earbuds                , Earbuds          , HP     , HP-JN325    ,       5288,                 ,    25,           29,          6509
+Boat BOA-CZ489 Smart TV            , Smart TV         , Boat   , BOA-CZ489   ,      77492,                 ,    10,           36,        100826
+Dell DEL-KO212 Earbuds             , Earbuds          , Dell   , DEL-KO212   ,       1636,                 ,   231,           99,          2071
+Canon CAN-SH125 Smartwatch         , Smartwatch       , Canon  , CAN-SH125   ,      20717,                 ,   110,           24,         24711
+Boat BOA-OY374 Laptop              , Laptop           , Boat   , BOA-OY374   ,      29853,                 ,    55,           33,         32554
+Lenovo LEN-TL731 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-TL731   ,       8715,                 ,   210,           99,         10562
+Boat BOA-EX995 Smartwatch          , Smartwatch       , Boat   , BOA-EX995   ,      18850,                 ,   108,           98,         24578
+Apple APP-YR748 Camera             , Camera           , Apple  , APP-YR748   ,     147596,                 ,    39,           17,        170224
+Apple APP-SA536 Laptop             , Laptop           , Apple  , APP-SA536   ,      79912,                 ,   170,           42,         95786
+Canon CAN-XR054 Bluetooth Speaker  , Bluetooth Speaker, Canon  , CAN-XR054   ,      13312,                 ,   130,           44,         14961
+JBL JBL-SN256 Mobile               , Mobile           , JBL    , JBL-SN256   ,      15650,                 ,    97,           12,         17710
+Sony SON-CC115 Smart TV            , Smart TV         , Sony   , SON-CC115   ,      71474,                 ,   186,           49,         81793
+Dell DEL-GK345 Camera              , Camera           , Dell   , DEL-GK345   ,      51408,                 ,    46,           12,         60856
+Xiaomi XIA-HV096 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-HV096   ,       2341,                 ,    82,            8,          3130
+Apple APP-KJ467 Mobile             , Mobile           , Apple  , APP-KJ467   ,      18254,                 ,   214,           80,         23583
+Boat BOA-VQ399 Mobile              , Mobile           , Boat   , BOA-VQ399   ,      11319,                 ,    88,           12,         12732
+Samsung SAM-FX652 Smartwatch       , Smartwatch       , Samsung, SAM-FX652   ,      14918,                 ,   232,           26,         18766
+Lenovo LEN-YX509 Mobile            , Mobile           , Lenovo , LEN-YX509   ,      33935,                 ,   198,           17,         42814
+Samsung SAM-YP773 Earbuds          , Earbuds          , Samsung, SAM-YP773   ,       4490,                 ,    85,            7,          5463
+HP HP-EG838 Mobile                 , Mobile           , HP     , HP-EG838    ,      43198,                 ,   136,           48,         54396
+LG LG-TD975 Earbuds                , Earbuds          , LG     , LG-TD975    ,       2021,                 ,   220,           82,          2377
+Samsung SAM-CG066 Earbuds          , Earbuds          , Samsung, SAM-CG066   ,       3794,                 ,   166,           99,          4964
+LG LG-ZI674 Smartwatch             , Smartwatch       , LG     , LG-ZI674    ,       7497,                 ,   102,           17,          9046
+Dell DEL-OJ153 Laptop              , Laptop           , Dell   , DEL-OJ153   ,     114613,                 ,   226,           60,        140845
+Canon CAN-HG023 Camera             , Camera           , Canon  , CAN-HG023   ,     149055,                 ,   214,           39,        176229
+Lenovo LEN-EK309 Camera            , Camera           , Lenovo , LEN-EK309   ,     109071,                 ,    92,           86,        132177
+Dell DEL-TC045 Smart TV            , Smart TV         , Dell   , DEL-TC045   ,      27564,                 ,    15,           42,         34117
+LG LG-CC557 Smartwatch             , Smartwatch       , LG     , LG-CC557    ,      12323,                 ,    54,           99,         13800
+LG LG-AK775 Camera                 , Camera           , LG     , LG-AK775    ,     140341,                 ,    12,           13,        147368
+Canon CAN-NR122 Laptop             , Laptop           , Canon  , CAN-NR122   ,      73543,                 ,   122,           39,         97795
+Apple APP-EH273 Laptop             , Laptop           , Apple  , APP-EH273   ,      41371,                 ,   240,           93,         44093
+Lenovo LEN-MQ410 Laptop            , Laptop           , Lenovo , LEN-MQ410   ,      98972,                 ,    15,           56,        118166
+Dell DEL-VJ844 Smart TV            , Smart TV         , Dell   , DEL-VJ844   ,      78606,                 ,   157,           25,         91928
+Lenovo LEN-ZD392 Camera            , Camera           , Lenovo , LEN-ZD392   ,      39574,                 ,   132,           65,         46555
+Sony SON-ZZ264 Earbuds             , Earbuds          , Sony   , SON-ZZ264   ,       4260,                 ,   141,           30,          4614
+Xiaomi XIA-IH739 Smartwatch        , Smartwatch       , Xiaomi , XIA-IH739   ,       5033,                 ,   189,           37,          5732
+Canon CAN-ZE707 Laptop             , Laptop           , Canon  , CAN-ZE707   ,      65600,                 ,   180,           79,         74336
+Xiaomi XIA-LH687 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-LH687   ,       3632,                 ,   120,           88,          3932
+Lenovo LEN-MQ267 Smart TV          , Smart TV         , Lenovo , LEN-MQ267   ,      63001,                 ,   228,           43,         81233
+LG LG-BZ445 Camera                 , Camera           , LG     , LG-BZ445    ,     146878,                 ,    45,           88,        192958
+LG LG-OU385 Camera                 , Camera           , LG     , LG-OU385    ,      49636,                 ,   198,           52,         66847
+Apple APP-CG616 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-CG616   ,      17220,                 ,   116,           74,         21437
+Lenovo LEN-RK794 Smartwatch        , Smartwatch       , Lenovo , LEN-RK794   ,      10274,                 ,   217,           41,         11331
+Apple APP-GN555 Mobile             , Mobile           , Apple  , APP-GN555   ,      33376,                 ,   119,            6,         44629
+Dell DEL-KU553 Smart TV            , Smart TV         , Dell   , DEL-KU553   ,      70948,                 ,   214,           49,         87899
+Boat BOA-CK919 Mobile              , Mobile           , Boat   , BOA-CK919   ,      17362,                 ,   240,           61,         21341
+Dell DEL-IL244 Laptop              , Laptop           , Dell   , DEL-IL244   ,      67874,                 ,   177,           82,         79336
+Boat BOA-IH818 Smart TV            , Smart TV         , Boat   , BOA-IH818   ,      46685,                 ,     2,           32,         62973
+Apple APP-RE921 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-RE921   ,       8906,                 ,   119,           89,          9950
+Dell DEL-OY241 Laptop              , Laptop           , Dell   , DEL-OY241   ,      84720,                 ,   100,           98,        111701
+Lenovo LEN-LA615 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-LA615   ,      18674,                 ,    66,           92,         24523
+Samsung SAM-SF780 Smart TV         , Smart TV         , Samsung, SAM-SF780   ,      85160,                 ,   225,           76,         90551
+JBL JBL-EI428 Mobile               , Mobile           , JBL    , JBL-EI428   ,      34841,                 ,    39,           25,         45044
+Lenovo LEN-IK313 Smartwatch        , Smartwatch       , Lenovo , LEN-IK313   ,      28994,                 ,   215,           79,         31200
+Canon CAN-ER895 Smart TV           , Smart TV         , Canon  , CAN-ER895   ,      89669,                 ,   132,           48,        101140
+Sony SON-IG131 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-IG131   ,      14913,                 ,    36,           60,         18041
+LG LG-PO445 Smart TV               , Smart TV         , LG     , LG-PO445    ,      29903,                 ,   196,           77,         37527
+Sony SON-OM134 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-OM134   ,      13880,                 ,    44,           96,         14830
+Dell DEL-YM135 Mobile              , Mobile           , Dell   , DEL-YM135   ,       8396,                 ,    66,           56,         11099
+Boat BOA-KM741 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-KM741   ,      12303,                 ,    90,           77,         15420
+Samsung SAM-UF022 Smartwatch       , Smartwatch       , Samsung, SAM-UF022   ,       4312,                 ,   146,           80,          5664
+Boat BOA-OU455 Camera              , Camera           , Boat   , BOA-OU455   ,      34623,                 ,    58,           59,         38901
+JBL JBL-VJ807 Earbuds              , Earbuds          , JBL    , JBL-VJ807   ,       7459,                 ,   106,           45,          9417
+Xiaomi XIA-ZC872 Smartwatch        , Smartwatch       , Xiaomi , XIA-ZC872   ,      29292,                 ,   190,           27,         36733
+Boat BOA-GW081 Mobile              , Mobile           , Boat   , BOA-GW081   ,       8469,                 ,   132,           45,          9373
+Xiaomi XIA-FT686 Camera            , Camera           , Xiaomi , XIA-FT686   ,      89553,                 ,    30,           23,        106535
+Sony SON-QU885 Smart TV            , Smart TV         , Sony   , SON-QU885   ,      22719,                 ,   157,           39,         26139
+HP HP-PE925 Smartwatch             , Smartwatch       , HP     , HP-PE925    ,       6998,                 ,     1,           78,          7350
+JBL JBL-ZR097 Camera               , Camera           , JBL    , JBL-ZR097   ,     107124,                 ,   193,           96,        120793
+HP HP-WD827 Mobile                 , Mobile           , HP     , HP-WD827    ,      36220,                 ,   112,           17,         44734
+Xiaomi XIA-TR452 Camera            , Camera           , Xiaomi , XIA-TR452   ,      46575,                 ,   239,           70,         60342
+LG LG-LQ805 Smart TV               , Smart TV         , LG     , LG-LQ805    ,      67517,                 ,   232,           96,         71266
+Dell DEL-LM588 Earbuds             , Earbuds          , Dell   , DEL-LM588   ,       5589,                 ,    59,           79,          6441
+Boat BOA-QS873 Mobile              , Mobile           , Boat   , BOA-QS873   ,      31821,                 ,    21,           68,         40607
+Xiaomi XIA-MI251 Smart TV          , Smart TV         , Xiaomi , XIA-MI251   ,      65539,                 ,   218,           64,         70149
+Boat BOA-UX706 Camera              , Camera           , Boat   , BOA-UX706   ,     138797,                 ,   117,           65,        175241
+Boat BOA-AY149 Camera              , Camera           , Boat   , BOA-AY149   ,      35953,                 ,   209,           50,         38556
+Xiaomi XIA-ZX838 Smart TV          , Smart TV         , Xiaomi , XIA-ZX838   ,      43821,                 ,    28,           76,         58809
+Apple APP-RG391 Earbuds            , Earbuds          , Apple  , APP-RG391   ,       4247,                 ,   179,           76,          5284
+Lenovo LEN-HS267 Smart TV          , Smart TV         , Lenovo , LEN-HS267   ,      77372,                 ,   133,           79,         81754
+Xiaomi XIA-MD260 Mobile            , Mobile           , Xiaomi , XIA-MD260   ,      33570,                 ,   214,           26,         37791
+Dell DEL-VZ410 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-VZ410   ,      12745,                 ,    28,            4,         14428
+Apple APP-SC381 Smart TV           , Smart TV         , Apple  , APP-SC381   ,      34288,                 ,   232,           39,         37053
+Sony SON-QR056 Camera              , Camera           , Sony   , SON-QR056   ,      56846,                 ,    74,           32,         73773
+Boat BOA-JF796 Laptop              , Laptop           , Boat   , BOA-JF796   ,      85545,                 ,    83,           22,        109655
+Xiaomi XIA-CC753 Smart TV          , Smart TV         , Xiaomi , XIA-CC753   ,      42042,                 ,   125,           56,         55092
+Dell DEL-UG626 Smart TV            , Smart TV         , Dell   , DEL-UG626   ,      53756,                 ,   207,           59,         71661
+Canon CAN-HY088 Bluetooth Speaker  , Bluetooth Speaker, Canon  , CAN-HY088   ,      17133,                 ,   196,            3,         21896
+JBL JBL-PE367 Laptop               , Laptop           , JBL    , JBL-PE367   ,      30626,                 ,   123,           38,         35918
+Xiaomi XIA-MC455 Camera            , Camera           , Xiaomi , XIA-MC455   ,     148052,                 ,   240,           25,        164353
+Dell DEL-YD853 Mobile              , Mobile           , Dell   , DEL-YD853   ,      23175,                 ,    14,           80,         26895
+Sony SON-TY700 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-TY700   ,       2607,                 ,   216,           17,          2861
+Xiaomi XIA-BB756 Earbuds           , Earbuds          , Xiaomi , XIA-BB756   ,       4176,                 ,    78,           27,          5357
+LG LG-LK651 Smartwatch             , Smartwatch       , LG     , LG-LK651    ,      16997,                 ,   198,            3,         20551
+HP HP-CX913 Mobile                 , Mobile           , HP     , HP-CX913    ,      23343,                 ,    23,           60,         26570
+Lenovo LEN-TQ634 Smartwatch        , Smartwatch       , Lenovo , LEN-TQ634   ,      23857,                 ,    45,           15,         29463
+Xiaomi XIA-BC446 Camera            , Camera           , Xiaomi , XIA-BC446   ,      83760,                 ,   198,           17,         87978
+Lenovo LEN-TT177 Earbuds           , Earbuds          , Lenovo , LEN-TT177   ,       4465,                 ,   227,            9,          5606
+Boat BOA-YN771 Laptop              , Laptop           , Boat   , BOA-YN771   ,      90455,                 ,    62,           86,        108317
+HP HP-TD834 Laptop                 , Laptop           , HP     , HP-TD834    ,      30109,                 ,   129,           88,         34558
+Apple APP-GZ645 Smartwatch         , Smartwatch       , Apple  , APP-GZ645   ,      19967,                 ,   204,           81,         22824
+Boat BOA-WE178 Mobile              , Mobile           , Boat   , BOA-WE178   ,      42935,                 ,   221,           64,         51066
+Apple APP-FN082 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-FN082   ,      18773,                 ,   165,           32,         25201
+Dell DEL-JD985 Smart TV            , Smart TV         , Dell   , DEL-JD985   ,      26154,                 ,    32,           41,         32914
+Lenovo LEN-KI472 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-KI472   ,      18162,                 ,    87,           41,         21688
+Canon CAN-JN918 Mobile             , Mobile           , Canon  , CAN-JN918   ,      44559,                 ,    53,           86,         47032
+LG LG-BM283 Mobile                 , Mobile           , LG     , LG-BM283    ,      36811,                 ,   201,           40,         46409
+Boat BOA-AF536 Smartwatch          , Smartwatch       , Boat   , BOA-AF536   ,      25431,                 ,    96,            2,         33883
+Dell DEL-PM719 Smart TV            , Smart TV         , Dell   , DEL-PM719   ,      26368,                 ,   204,           30,         28381
+Xiaomi XIA-DY056 Camera            , Camera           , Xiaomi , XIA-DY056   ,     127755,                 ,   102,           66,        147856
+Samsung SAM-YA687 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-YA687   ,      16525,                 ,   173,           15,         20164
+Xiaomi XIA-NG409 Mobile            , Mobile           , Xiaomi , XIA-NG409   ,       9041,                 ,   171,           49,          9604
+HP HP-CX857 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-CX857    ,      19279,                 ,   194,            6,         23923
+Boat BOA-ZC018 Earbuds             , Earbuds          , Boat   , BOA-ZC018   ,       2556,                 ,   102,           95,          3401
+Canon CAN-OL922 Mobile             , Mobile           , Canon  , CAN-OL922   ,      32015,                 ,   203,            8,         36485
+LG LG-ST320 Earbuds                , Earbuds          , LG     , LG-ST320    ,       4411,                 ,    61,           84,          5576
+Sony SON-UP114 Laptop              , Laptop           , Sony   , SON-UP114   ,      38629,                 ,   126,            7,         47655
+Apple APP-NZ232 Smart TV           , Smart TV         , Apple  , APP-NZ232   ,      66163,                 ,   133,           58,         80447
+Apple APP-ER860 Mobile             , Mobile           , Apple  , APP-ER860   ,      22405,                 ,     2,           41,         26565
+Dell DEL-DS930 Camera              , Camera           , Dell   , DEL-DS930   ,     110081,                 ,   209,           12,        130069
+HP HP-VE985 Earbuds                , Earbuds          , HP     , HP-VE985    ,       2634,                 ,    24,           45,          3279
+Xiaomi XIA-CC710 Smartwatch        , Smartwatch       , Xiaomi , XIA-CC710   ,      20650,                 ,    54,          100,         23040
+Xiaomi XIA-DV366 Camera            , Camera           , Xiaomi , XIA-DV366   ,      85316,                 ,   118,           53,         94243
+Canon CAN-GV009 Smartwatch         , Smartwatch       , Canon  , CAN-GV009   ,       7790,                 ,    43,           82,          8281
+Sony SON-CW819 Smart TV            , Smart TV         , Sony   , SON-CW819   ,      36082,                 ,    95,           56,         40359
+Sony SON-YL743 Mobile              , Mobile           , Sony   , SON-YL743   ,       8920,                 ,   155,           74,         10686
+Sony SON-JX241 Smart TV            , Smart TV         , Sony   , SON-JX241   ,      28946,                 ,    92,           54,         36300
+Canon CAN-QQ484 Smartwatch         , Smartwatch       , Canon  , CAN-QQ484   ,      25462,                 ,   134,           76,         28290
+HP HP-JK672 Mobile                 , Mobile           , HP     , HP-JK672    ,      13005,                 ,   185,           61,         17403
+JBL JBL-UZ735 Camera               , Camera           , JBL    , JBL-UZ735   ,      89131,                 ,   219,           20,        110400
+Dell DEL-XN313 Smart TV            , Smart TV         , Dell   , DEL-XN313   ,      59063,                 ,   178,           96,         71642
+Samsung SAM-XU095 Laptop           , Laptop           , Samsung, SAM-XU095   ,      90128,                 ,   116,           98,        106493
+Canon CAN-ZZ162 Camera             , Camera           , Canon  , CAN-ZZ162   ,      58585,                 ,   163,            6,         72019
+Samsung SAM-TY593 Camera           , Camera           , Samsung, SAM-TY593   ,      44426,                 ,   245,           12,         54542
+Sony SON-EP869 Camera              , Camera           , Sony   , SON-EP869   ,     141503,                 ,   224,           99,        184067
+Dell DEL-YO519 Mobile              , Mobile           , Dell   , DEL-YO519   ,      25975,                 ,   221,           87,         30432
+JBL JBL-IM022 Smart TV             , Smart TV         , JBL    , JBL-IM022   ,      31561,                 ,    77,            2,         35388
+Boat BOA-AX217 Smartwatch          , Smartwatch       , Boat   , BOA-AX217   ,       3374,                 ,   165,           41,          3960
+Dell DEL-BD711 Camera              , Camera           , Dell   , DEL-BD711   ,     111059,                 ,    13,           89,        130106
+Dell DEL-YJ931 Smartwatch          , Smartwatch       , Dell   , DEL-YJ931   ,       6155,                 ,    69,           17,          7557
+Dell DEL-DE979 Earbuds             , Earbuds          , Dell   , DEL-DE979   ,       3438,                 ,    27,           66,          3931
+Dell DEL-EZ697 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-EZ697   ,      11238,                 ,   203,           56,         13783
+Lenovo LEN-PE361 Laptop            , Laptop           , Lenovo , LEN-PE361   ,      37588,                 ,    30,           11,         42140
+Samsung SAM-YY399 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-YY399   ,      12970,                 ,    79,           74,         15338
+Sony SON-PX925 Mobile              , Mobile           , Sony   , SON-PX925   ,      11724,                 ,    93,            1,         13495
+Sony SON-IC336 Smart TV            , Smart TV         , Sony   , SON-IC336   ,      26276,                 ,   170,           76,         29550
+Lenovo LEN-QX422 Mobile            , Mobile           , Lenovo , LEN-QX422   ,      29040,                 ,   117,           84,         32692
+Dell DEL-GC037 Mobile              , Mobile           , Dell   , DEL-GC037   ,      25576,                 ,   174,           76,         31500
+LG LG-MJ514 Laptop                 , Laptop           , LG     , LG-MJ514    ,     117324,                 ,   119,           44,        150707
+Canon CAN-QR108 Camera             , Camera           , Canon  , CAN-QR108   ,      94671,                 ,   206,            6,        116029
+Samsung SAM-IY013 Earbuds          , Earbuds          , Samsung, SAM-IY013   ,       1119,                 ,   147,           78,          1356
+Apple APP-OX056 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-OX056   ,      17001,                 ,    36,           20,         18478
+Samsung SAM-LQ640 Smart TV         , Smart TV         , Samsung, SAM-LQ640   ,      20281,                 ,   118,           35,         21534
+Xiaomi XIA-ZK595 Earbuds           , Earbuds          , Xiaomi , XIA-ZK595   ,       4793,                 ,    58,           69,          5291
+HP HP-HC354 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-HC354    ,      10200,                 ,    11,           20,         12499
+Dell DEL-AC864 Mobile              , Mobile           , Dell   , DEL-AC864   ,      41057,                 ,    42,           98,         54997
+Samsung SAM-FQ941 Mobile           , Mobile           , Samsung, SAM-FQ941   ,      29857,                 ,    38,           95,         40065
+LG LG-MX263 Camera                 , Camera           , LG     , LG-MX263    ,      71503,                 ,   177,           23,         86138
+LG LG-JL242 Earbuds                , Earbuds          , LG     , LG-JL242    ,       5913,                 ,   127,           45,          6456
+Canon CAN-BT603 Earbuds            , Earbuds          , Canon  , CAN-BT603   ,       4903,                 ,   233,            8,          6184
+LG LG-ZP588 Smartwatch             , Smartwatch       , LG     , LG-ZP588    ,      13225,                 ,   246,            8,         14633
+JBL JBL-RY522 Smart TV             , Smart TV         , JBL    , JBL-RY522   ,      43196,                 ,     4,           86,         51106
+Samsung SAM-NX866 Smart TV         , Smart TV         , Samsung, SAM-NX866   ,      68320,                 ,   217,           43,         88914
+Boat BOA-EZ981 Mobile              , Mobile           , Boat   , BOA-EZ981   ,      28473,                 ,   209,           17,         30046
+Apple APP-ZL968 Smart TV           , Smart TV         , Apple  , APP-ZL968   ,      44089,                 ,   231,           76,         57786
+Dell DEL-XX033 Earbuds             , Earbuds          , Dell   , DEL-XX033   ,       1486,                 ,    45,           68,          1975
+HP HP-NX075 Earbuds                , Earbuds          , HP     , HP-NX075    ,       7444,                 ,    30,           80,          9157
+LG LG-CD559 Camera                 , Camera           , LG     , LG-CD559    ,      34508,                 ,   104,           90,         43138
+Apple APP-OC253 Mobile             , Mobile           , Apple  , APP-OC253   ,      14125,                 ,   241,           64,         17618
+HP HP-JM602 Smart TV               , Smart TV         , HP     , HP-JM602    ,      25704,                 ,    88,           48,         33670
+Canon CAN-PS083 Laptop             , Laptop           , Canon  , CAN-PS083   ,      97460,                 ,    76,           31,        125208
+Samsung SAM-TX808 Laptop           , Laptop           , Samsung, SAM-TX808   ,      91024,                 ,    97,            4,         98554
+HP HP-HM608 Earbuds                , Earbuds          , HP     , HP-HM608    ,       2137,                 ,   225,           82,          2524
+HP HP-ZL824 Laptop                 , Laptop           , HP     , HP-ZL824    ,      50426,                 ,   128,           88,         66091
+Apple APP-EF877 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-EF877   ,       9189,                 ,    88,           85,         11149
+Dell DEL-VN135 Camera              , Camera           , Dell   , DEL-VN135   ,      18726,                 ,   249,           71,         23202
+JBL JBL-WA188 Laptop               , Laptop           , JBL    , JBL-WA188   ,      34108,                 ,    92,           89,         39706
+Samsung SAM-LX728 Laptop           , Laptop           , Samsung, SAM-LX728   ,     108360,                 ,   240,           35,        121500
+LG LG-QD035 Smartwatch             , Smartwatch       , LG     , LG-QD035    ,      25443,                 ,    10,           99,         26827
+Boat BOA-PJ187 Laptop              , Laptop           , Boat   , BOA-PJ187   ,     101743,                 ,    73,           66,        127225
+Apple APP-HK159 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-HK159   ,       3989,                 ,    84,           26,          4787
+Xiaomi XIA-QR240 Camera            , Camera           , Xiaomi , XIA-QR240   ,      21471,                 ,   197,           28,         25888
+Lenovo LEN-AX660 Camera            , Camera           , Lenovo , LEN-AX660   ,      46348,                 ,   152,           12,         59980
+Canon CAN-UH964 Earbuds            , Earbuds          , Canon  , CAN-UH964   ,       5752,                 ,    36,           79,          6727
+Dell DEL-LF356 Smart TV            , Smart TV         , Dell   , DEL-LF356   ,      31563,                 ,    42,           48,         37654
+Apple APP-AZ985 Smartwatch         , Smartwatch       , Apple  , APP-AZ985   ,      29966,                 ,   241,           43,         38772
+Canon CAN-HR432 Smartwatch         , Smartwatch       , Canon  , CAN-HR432   ,      28580,                 ,   106,           80,         37060
+HP HP-GS821 Earbuds                , Earbuds          , HP     , HP-GS821    ,       2338,                 ,   142,           25,          2504
+Xiaomi XIA-XU866 Camera            , Camera           , Xiaomi , XIA-XU866   ,     143803,                 ,    14,           68,        190986
+Sony SON-SR924 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-SR924   ,      14076,                 ,    18,           34,         16803
+Samsung SAM-PZ837 Smart TV         , Smart TV         , Samsung, SAM-PZ837   ,      66413,                 ,   239,           52,         79414
+JBL JBL-QM933 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-QM933   ,       4610,                 ,   155,           35,          6126
+Lenovo LEN-WE012 Laptop            , Laptop           , Lenovo , LEN-WE012   ,      79691,                 ,     1,           49,        100832
+JBL JBL-TE630 Camera               , Camera           , JBL    , JBL-TE630   ,     101365,                 ,    94,           74,        111941
+Xiaomi XIA-TH732 Earbuds           , Earbuds          , Xiaomi , XIA-TH732   ,       5658,                 ,    70,           63,          6832
+Boat BOA-WM859 Earbuds             , Earbuds          , Boat   , BOA-WM859   ,       2859,                 ,   188,           42,          3682
+Boat BOA-XN832 Mobile              , Mobile           , Boat   , BOA-XN832   ,      30611,                 ,   117,            7,         36040
+Sony SON-DF459 Mobile              , Mobile           , Sony   , SON-DF459   ,      27675,                 ,   105,           47,         29419
+Sony SON-IS746 Smart TV            , Smart TV         , Sony   , SON-IS746   ,      85429,                 ,   213,           92,        110695
+Dell DEL-QA271 Laptop              , Laptop           , Dell   , DEL-QA271   ,     119088,                 ,    14,           10,        153400
+Sony SON-MT066 Camera              , Camera           , Sony   , SON-MT066   ,     142959,                 ,   124,           42,        167735
+LG LG-ZJ013 Smart TV               , Smart TV         , LG     , LG-ZJ013    ,      54084,                 ,   151,           19,         61689
+Dell DEL-TN007 Mobile              , Mobile           , Dell   , DEL-TN007   ,      42451,                 ,   201,           89,         49969
+Dell DEL-IC530 Laptop              , Laptop           , Dell   , DEL-IC530   ,      90681,                 ,   201,           97,        116071
+HP HP-YL554 Mobile                 , Mobile           , HP     , HP-YL554    ,      32160,                 ,   225,           33,         40877
+Sony SON-IX319 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-IX319   ,      18014,                 ,   149,           48,         21807
+LG LG-AF920 Camera                 , Camera           , LG     , LG-AF920    ,      83388,                 ,   219,           71,        103617
+Sony SON-DS736 Smartwatch          , Smartwatch       , Sony   , SON-DS736   ,      26711,                 ,   200,           78,         33158
+JBL JBL-QP018 Camera               , Camera           , JBL    , JBL-QP018   ,      22421,                 ,    63,           35,         24495
+Apple APP-KJ541 Mobile             , Mobile           , Apple  , APP-KJ541   ,      10358,                 ,    66,           42,         13035
+Lenovo LEN-QH662 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-QH662   ,      12543,                 ,    18,           68,         13653
+Sony SON-KX562 Smartwatch          , Smartwatch       , Sony   , SON-KX562   ,      20625,                 ,    31,           39,         23742
+Apple APP-MP789 Camera             , Camera           , Apple  , APP-MP789   ,      69253,                 ,   228,           97,         78219
+LG LG-HB429 Earbuds                , Earbuds          , LG     , LG-HB429    ,       6518,                 ,    96,           70,          7628
+Xiaomi XIA-AR986 Earbuds           , Earbuds          , Xiaomi , XIA-AR986   ,       2972,                 ,    12,           49,          3670
+Apple APP-UB796 Laptop             , Laptop           , Apple  , APP-UB796   ,      89315,                 ,     4,           44,         95592
+HP HP-GB888 Smart TV               , Smart TV         , HP     , HP-GB888    ,      56378,                 ,     7,           72,         70024
+Lenovo LEN-IT070 Earbuds           , Earbuds          , Lenovo , LEN-IT070   ,       2085,                 ,    43,           58,          2614
+Sony SON-RE346 Camera              , Camera           , Sony   , SON-RE346   ,      89069,                 ,   214,           44,        111411
+Apple APP-JI144 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-JI144   ,      10686,                 ,     7,           22,         12711
+LG LG-RM481 Camera                 , Camera           , LG     , LG-RM481    ,     110673,                 ,    76,           93,        148001
+Samsung SAM-ZV194 Laptop           , Laptop           , Samsung, SAM-ZV194   ,      35526,                 ,    54,           80,         45347
+Lenovo LEN-LP768 Smartwatch        , Smartwatch       , Lenovo , LEN-LP768   ,       5665,                 ,   120,           55,          6112
+Sony SON-MM840 Camera              , Camera           , Sony   , SON-MM840   ,      83619,                 ,   139,            8,         96519
+Dell DEL-AW577 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-AW577   ,       8123,                 ,    29,           23,          9686
+Lenovo LEN-WN664 Laptop            , Laptop           , Lenovo , LEN-WN664   ,      80922,                 ,     4,           84,         88668
+Xiaomi XIA-MR618 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-MR618   ,       9555,                 ,    29,           21,         10731
+Samsung SAM-AY544 Smartwatch       , Smartwatch       , Samsung, SAM-AY544   ,      16395,                 ,   209,           72,         20281
+Apple APP-TI325 Laptop             , Laptop           , Apple  , APP-TI325   ,     116878,                 ,   244,           16,        153040
+Lenovo LEN-JV045 Smartwatch        , Smartwatch       , Lenovo , LEN-JV045   ,      13699,                 ,   225,           14,         17597
+Boat BOA-LD461 Mobile              , Mobile           , Boat   , BOA-LD461   ,      22163,                 ,   113,           66,         25286
+Samsung SAM-OA066 Smart TV         , Smart TV         , Samsung, SAM-OA066   ,      55585,                 ,   200,           65,         73988
+JBL JBL-OR438 Earbuds              , Earbuds          , JBL    , JBL-OR438   ,       6462,                 ,   189,           23,          8384
+Xiaomi XIA-VI757 Camera            , Camera           , Xiaomi , XIA-VI757   ,      33073,                 ,    54,            6,         40685
+Boat BOA-CT238 Earbuds             , Earbuds          , Boat   , BOA-CT238   ,       1942,                 ,   142,           86,          2497
+HP HP-OJ184 Camera                 , Camera           , HP     , HP-OJ184    ,      76929,                 ,    48,           42,         92341
+LG LG-CP193 Camera                 , Camera           , LG     , LG-CP193    ,      40169,                 ,   157,           88,         49744
+Xiaomi XIA-SC498 Smart TV          , Smart TV         , Xiaomi , XIA-SC498   ,      65033,                 ,   133,           67,         85220
+Apple APP-UL691 Smartwatch         , Smartwatch       , Apple  , APP-UL691   ,      10693,                 ,   148,           35,         11487
+Samsung SAM-NB984 Smart TV         , Smart TV         , Samsung, SAM-NB984   ,      26721,                 ,   162,           82,         29289
+Sony SON-RE816 Smartwatch          , Smartwatch       , Sony   , SON-RE816   ,      10373,                 ,     9,           25,         13927
+Dell DEL-NK997 Smartwatch          , Smartwatch       , Dell   , DEL-NK997   ,      29561,                 ,    53,           33,         32214
+LG LG-ZZ414 Earbuds                , Earbuds          , LG     , LG-ZZ414    ,       4759,                 ,    64,           80,          5862
+JBL JBL-HS879 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-HS879   ,       5917,                 ,   179,            3,          7684
+Xiaomi XIA-FQ236 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-FQ236   ,       3530,                 ,    24,           13,          4128
+Lenovo LEN-ZE567 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-ZE567   ,      16476,                 ,   148,           98,         17901
+Dell DEL-OP976 Camera              , Camera           , Dell   , DEL-OP976   ,      32347,                 ,    67,           45,         35276
+JBL JBL-HW850 Camera               , Camera           , JBL    , JBL-HW850   ,     143955,                 ,   127,           96,        184696
+Samsung SAM-RF712 Laptop           , Laptop           , Samsung, SAM-RF712   ,     119299,                 ,    77,           20,        136423
+Sony SON-VR270 Earbuds             , Earbuds          , Sony   , SON-VR270   ,       6277,                 ,   190,            6,          7113
+Boat BOA-CW787 Camera              , Camera           , Boat   , BOA-CW787   ,     132407,                 ,   129,           60,        147608
+LG LG-GU726 Smartwatch             , Smartwatch       , LG     , LG-GU726    ,       9610,                 ,     4,           83,         11204
+LG LG-KU690 Smart TV               , Smart TV         , LG     , LG-KU690    ,      62913,                 ,   129,           11,         74736
+HP HP-FW842 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-FW842    ,      18073,                 ,    55,           79,         19289
+Lenovo LEN-JP717 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-JP717   ,       6078,                 ,    98,           21,          6818
+HP HP-LZ097 Laptop                 , Laptop           , HP     , HP-LZ097    ,      95984,                 ,   237,            7,        123321
+LG LG-BH218 Mobile                 , Mobile           , LG     , LG-BH218    ,      37823,                 ,    96,            4,         47561
+Dell DEL-MY095 Mobile              , Mobile           , Dell   , DEL-MY095   ,      40406,                 ,   100,           52,         45200
+Lenovo LEN-QR453 Camera            , Camera           , Lenovo , LEN-QR453   ,     113723,                 ,   230,           50,        137390
+Dell DEL-NY571 Camera              , Camera           , Dell   , DEL-NY571   ,      47371,                 ,   226,            7,         55492
+JBL JBL-KJ863 Smartwatch           , Smartwatch       , JBL    , JBL-KJ863   ,      29715,                 ,   198,           86,         35494
+Xiaomi XIA-YQ457 Earbuds           , Earbuds          , Xiaomi , XIA-YQ457   ,       4216,                 ,   129,           62,          4440
+Samsung SAM-CI269 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-CI269   ,       7548,                 ,    78,           21,          7968
+Samsung SAM-RI993 Laptop           , Laptop           , Samsung, SAM-RI993   ,      48177,                 ,   119,           39,         60428
+HP HP-AN755 Smartwatch             , Smartwatch       , HP     , HP-AN755    ,      28476,                 ,   212,           90,         31738
+Samsung SAM-HQ300 Smart TV         , Smart TV         , Samsung, SAM-HQ300   ,      76532,                 ,   228,           45,         84924
+JBL JBL-NQ262 Camera               , Camera           , JBL    , JBL-NQ262   ,     146743,                 ,   226,           60,        175556
+LG LG-VF887 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-VF887    ,      11634,                 ,    51,           55,         13801
+Lenovo LEN-VB607 Smart TV          , Smart TV         , Lenovo , LEN-VB607   ,      49300,                 ,   195,           34,         58986
+Apple APP-BE208 Mobile             , Mobile           , Apple  , APP-BE208   ,      43487,                 ,   231,           99,         55280
+LG LG-KQ406 Earbuds                , Earbuds          , LG     , LG-KQ406    ,       6364,                 ,   156,           38,          7854
+Samsung SAM-QQ757 Smartwatch       , Smartwatch       , Samsung, SAM-QQ757   ,      25548,                 ,   112,           64,         34154
+Dell DEL-YC730 Mobile              , Mobile           , Dell   , DEL-YC730   ,      38784,                 ,   168,            1,         48387
+Boat BOA-JV012 Camera              , Camera           , Boat   , BOA-JV012   ,      18631,                 ,     9,           58,         20985
+LG LG-UW262 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-UW262    ,      19663,                 ,   202,           34,         23368
+Lenovo LEN-JY551 Camera            , Camera           , Lenovo , LEN-JY551   ,      66399,                 ,   144,           60,         74240
+Canon CAN-PN937 Mobile             , Mobile           , Canon  , CAN-PN937   ,      31431,                 ,    68,           32,         41323
+Dell DEL-FX811 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-FX811   ,       8083,                 ,   100,            8,          9729
+HP HP-FE788 Smartwatch             , Smartwatch       , HP     , HP-FE788    ,       7940,                 ,    86,           43,          8427
+Boat BOA-QB621 Smartwatch          , Smartwatch       , Boat   , BOA-QB621   ,       6456,                 ,   151,           99,          6918
+Boat BOA-YJ622 Smartwatch          , Smartwatch       , Boat   , BOA-YJ622   ,       5711,                 ,   147,           21,          6057
+Xiaomi XIA-IL635 Mobile            , Mobile           , Xiaomi , XIA-IL635   ,      34903,                 ,   109,          100,         40347
+Canon CAN-JI402 Smartwatch         , Smartwatch       , Canon  , CAN-JI402   ,      12866,                 ,   210,            7,         17256
+Lenovo LEN-LV178 Laptop            , Laptop           , Lenovo , LEN-LV178   ,      89027,                 ,   185,            5,        102955
+Boat BOA-JH516 Smart TV            , Smart TV         , Boat   , BOA-JH516   ,      25439,                 ,   110,           96,         29949
+HP HP-WD528 Camera                 , Camera           , HP     , HP-WD528    ,      54279,                 ,   222,            8,         72753
+Apple APP-XW685 Mobile             , Mobile           , Apple  , APP-XW685   ,      41144,                 ,   177,           67,         47915
+Canon CAN-FA285 Camera             , Camera           , Canon  , CAN-FA285   ,     112661,                 ,   104,           41,        127105
+Sony SON-JF772 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-JF772   ,      13504,                 ,   189,           10,         16327
+JBL JBL-NK568 Smart TV             , Smart TV         , JBL    , JBL-NK568   ,      54964,                 ,    90,            2,         59777
+Canon CAN-RT115 Camera             , Camera           , Canon  , CAN-RT115   ,      74765,                 ,   159,           95,         89404
+Lenovo LEN-WD790 Smartwatch        , Smartwatch       , Lenovo , LEN-WD790   ,       6983,                 ,   123,           98,          9032
+Boat BOA-GG265 Camera              , Camera           , Boat   , BOA-GG265   ,      60838,                 ,   145,           55,         65902
+Dell DEL-KX806 Camera              , Camera           , Dell   , DEL-KX806   ,      85119,                 ,   123,           89,        100408
+JBL JBL-QH755 Mobile               , Mobile           , JBL    , JBL-QH755   ,      17889,                 ,   157,           84,         23844
+Lenovo LEN-JP802 Smart TV          , Smart TV         , Lenovo , LEN-JP802   ,      66804,                 ,   178,           46,         83691
+JBL JBL-KV378 Laptop               , Laptop           , JBL    , JBL-KV378   ,     109080,                 ,   226,           32,        135667
+JBL JBL-WL252 Mobile               , Mobile           , JBL    , JBL-WL252   ,      16736,                 ,   174,           18,         18870
+Sony SON-EP864 Laptop              , Laptop           , Sony   , SON-EP864   ,      53044,                 ,   125,            8,         59214
+Apple APP-MM218 Earbuds            , Earbuds          , Apple  , APP-MM218   ,        801,                 ,   134,           23,          1016
+Xiaomi XIA-BO160 Mobile            , Mobile           , Xiaomi , XIA-BO160   ,      20571,                 ,    85,           22,         21931
+Sony SON-BG195 Smartwatch          , Smartwatch       , Sony   , SON-BG195   ,      23714,                 ,    91,           29,         26815
+Lenovo LEN-AS620 Smartwatch        , Smartwatch       , Lenovo , LEN-AS620   ,      19140,                 ,    28,           85,         21043
+Canon CAN-ZW186 Smart TV           , Smart TV         , Canon  , CAN-ZW186   ,      75731,                 ,    94,           79,         98097
+Canon CAN-VE627 Camera             , Camera           , Canon  , CAN-VE627   ,      35567,                 ,    21,           43,         40998
+Boat BOA-PB310 Earbuds             , Earbuds          , Boat   , BOA-PB310   ,       2968,                 ,   183,            3,          3642
+JBL JBL-RV619 Smartwatch           , Smartwatch       , JBL    , JBL-RV619   ,      11894,                 ,    22,           29,         12866
+Samsung SAM-WN706 Smartwatch       , Smartwatch       , Samsung, SAM-WN706   ,       8926,                 ,    24,            8,         10917
+JBL JBL-VX765 Smartwatch           , Smartwatch       , JBL    , JBL-VX765   ,      11553,                 ,    71,            1,         14064
+Samsung SAM-SL947 Earbuds          , Earbuds          , Samsung, SAM-SL947   ,       6495,                 ,   192,            4,          8235
+Canon CAN-UX854 Earbuds            , Earbuds          , Canon  , CAN-UX854   ,       7771,                 ,    63,           98,          8611
+Boat BOA-TX055 Earbuds             , Earbuds          , Boat   , BOA-TX055   ,       4062,                 ,   148,           46,          4643
+Xiaomi XIA-AT055 Earbuds           , Earbuds          , Xiaomi , XIA-AT055   ,       6874,                 ,    65,           41,          8485
+Lenovo LEN-FU414 Smart TV          , Smart TV         , Lenovo , LEN-FU414   ,      87695,                 ,   243,           36,        112700
+HP HP-GN569 Smartwatch             , Smartwatch       , HP     , HP-GN569    ,      17933,                 ,    57,           54,         23392
+Xiaomi XIA-KU435 Smart TV          , Smart TV         , Xiaomi , XIA-KU435   ,      55851,                 ,    13,           34,         71138
+HP HP-PU318 Earbuds                , Earbuds          , HP     , HP-PU318    ,       7687,                 ,   242,           95,          8825
+Xiaomi XIA-LS124 Mobile            , Mobile           , Xiaomi , XIA-LS124   ,      11110,                 ,   210,           58,         13233
+JBL JBL-PR036 Earbuds              , Earbuds          , JBL    , JBL-PR036   ,       2679,                 ,   131,           20,          3122
+Apple APP-VM602 Camera             , Camera           , Apple  , APP-VM602   ,      33313,                 ,   226,           26,         43835
+Apple APP-PS946 Earbuds            , Earbuds          , Apple  , APP-PS946   ,       2328,                 ,    53,           21,          2907
+Canon CAN-BU140 Earbuds            , Earbuds          , Canon  , CAN-BU140   ,       6845,                 ,     3,           60,          8459
+Lenovo LEN-YN175 Camera            , Camera           , Lenovo , LEN-YN175   ,      48848,                 ,    16,           71,         56971
+Xiaomi XIA-PR369 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-PR369   ,       3563,                 ,     2,           88,          4286
+HP HP-UJ355 Mobile                 , Mobile           , HP     , HP-UJ355    ,      29225,                 ,   131,           24,         35609
+Apple APP-XO755 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-XO755   ,       1161,                 ,   146,           31,          1427
+HP HP-FZ440 Earbuds                , Earbuds          , HP     , HP-FZ440    ,       3759,                 ,    48,           63,          4877
+LG LG-NO531 Laptop                 , Laptop           , LG     , LG-NO531    ,      30997,                 ,   151,           76,         33932
+HP HP-WV569 Smartwatch             , Smartwatch       , HP     , HP-WV569    ,       3541,                 ,   116,           31,          4761
+Boat BOA-UT944 Smartwatch          , Smartwatch       , Boat   , BOA-UT944   ,      20251,                 ,   175,           45,         24406
+Samsung SAM-MG372 Smartwatch       , Smartwatch       , Samsung, SAM-MG372   ,       8469,                 ,   182,           97,          9726
+Xiaomi XIA-UK357 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-UK357   ,       2169,                 ,   112,           92,          2519
+Xiaomi XIA-HK735 Earbuds           , Earbuds          , Xiaomi , XIA-HK735   ,       3310,                 ,    56,           45,          4236
+Boat BOA-IF517 Laptop              , Laptop           , Boat   , BOA-IF517   ,     102984,                 ,     3,           20,        121147
+Boat BOA-TG222 Laptop              , Laptop           , Boat   , BOA-TG222   ,      55447,                 ,   142,           70,         61184
+Xiaomi XIA-VJ710 Camera            , Camera           , Xiaomi , XIA-VJ710   ,      99045,                 ,   102,            9,        126199
+Boat BOA-PT504 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-PT504   ,      13889,                 ,   248,           61,         17032
+Dell DEL-MZ884 Smartwatch          , Smartwatch       , Dell   , DEL-MZ884   ,      11329,                 ,   204,           94,         13032
+JBL JBL-HF507 Camera               , Camera           , JBL    , JBL-HF507   ,      68072,                 ,    50,           19,         90459
+JBL JBL-AJ874 Smart TV             , Smart TV         , JBL    , JBL-AJ874   ,      45122,                 ,   242,           69,         53194
+JBL JBL-LR025 Mobile               , Mobile           , JBL    , JBL-LR025   ,      13999,                 ,    48,           21,         15480
+Dell DEL-PG524 Earbuds             , Earbuds          , Dell   , DEL-PG524   ,       7741,                 ,    99,           70,         10304
+Dell DEL-JM273 Smartwatch          , Smartwatch       , Dell   , DEL-JM273   ,      29201,                 ,   230,           39,         31367
+LG LG-HE152 Camera                 , Camera           , LG     , LG-HE152    ,      20105,                 ,    23,           57,         26595
+HP HP-UO818 Mobile                 , Mobile           , HP     , HP-UO818    ,      19493,                 ,   107,           60,         21784
+Sony SON-MA418 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-MA418   ,       8736,                 ,   151,           89,         11142
+JBL JBL-NI428 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-NI428   ,      13835,                 ,   151,           30,         14582
+LG LG-CE228 Mobile                 , Mobile           , LG     , LG-CE228    ,      15557,                 ,   162,           55,         17556
+Boat BOA-TG358 Mobile              , Mobile           , Boat   , BOA-TG358   ,      25675,                 ,   137,           80,         33021
+Samsung SAM-KJ665 Earbuds          , Earbuds          , Samsung, SAM-KJ665   ,       3971,                 ,   105,           89,          5074
+Lenovo LEN-NZ235 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-NZ235   ,       1204,                 ,    72,           45,          1361
+Boat BOA-XJ261 Camera              , Camera           , Boat   , BOA-XJ261   ,      20347,                 ,    83,           82,         21569
+Lenovo LEN-VI658 Laptop            , Laptop           , Lenovo , LEN-VI658   ,      43681,                 ,    20,           68,         53229
+Apple APP-EF322 Mobile             , Mobile           , Apple  , APP-EF322   ,      23073,                 ,     6,           70,         27072
+LG LG-HL835 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-HL835    ,      15289,                 ,   202,           20,         19412
+LG LG-EW122 Smart TV               , Smart TV         , LG     , LG-EW122    ,      85428,                 ,   235,           14,         91038
+Apple APP-FK094 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-FK094   ,       6432,                 ,    20,           82,          7707
+Samsung SAM-UN916 Mobile           , Mobile           , Samsung, SAM-UN916   ,      34228,                 ,   217,           37,         42656
+Lenovo LEN-YK274 Mobile            , Mobile           , Lenovo , LEN-YK274   ,      37703,                 ,   114,           89,         43414
+Sony SON-NE039 Laptop              , Laptop           , Sony   , SON-NE039   ,      87292,                 ,   248,           61,        107592
+Boat BOA-MW951 Camera              , Camera           , Boat   , BOA-MW951   ,     105536,                 ,   116,           68,        111510
+JBL JBL-EP665 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-EP665   ,      16352,                 ,   246,           33,         21342
+Lenovo LEN-QI358 Smartwatch        , Smartwatch       , Lenovo , LEN-QI358   ,      12879,                 ,    97,           28,         13966
+HP HP-JG308 Smart TV               , Smart TV         , HP     , HP-JG308    ,      43481,                 ,   166,           86,         52732
+Sony SON-IM099 Camera              , Camera           , Sony   , SON-IM099   ,      60232,                 ,   197,           70,         73065
+HP HP-AL220 Smart TV               , Smart TV         , HP     , HP-AL220    ,      89184,                 ,     4,            2,        105111
+Xiaomi XIA-KO317 Earbuds           , Earbuds          , Xiaomi , XIA-KO317   ,       6665,                 ,    65,           74,          8697
+LG LG-FC657 Smart TV               , Smart TV         , LG     , LG-FC657    ,      85633,                 ,   178,           39,        112059
+Lenovo LEN-HQ521 Smartwatch        , Smartwatch       , Lenovo , LEN-HQ521   ,      11535,                 ,    37,           60,         14835
+Sony SON-DC447 Mobile              , Mobile           , Sony   , SON-DC447   ,      10666,                 ,   191,           63,         12668
+Xiaomi XIA-ID909 Smart TV          , Smart TV         , Xiaomi , XIA-ID909   ,      30800,                 ,   134,           21,         34200
+HP HP-DL000 Earbuds                , Earbuds          , HP     , HP-DL000    ,       5127,                 ,    67,           86,          6221
+Dell DEL-KU436 Laptop              , Laptop           , Dell   , DEL-KU436   ,      30774,                 ,   212,           79,         34204
+Dell DEL-CT123 Mobile              , Mobile           , Dell   , DEL-CT123   ,      24133,                 ,    13,           27,         26509
+Boat BOA-EX230 Smartwatch          , Smartwatch       , Boat   , BOA-EX230   ,      26932,                 ,    57,           28,         31924
+Xiaomi XIA-KZ291 Camera            , Camera           , Xiaomi , XIA-KZ291   ,      44118,                 ,   247,            3,         53636
+Apple APP-NZ463 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-NZ463   ,      11183,                 ,    41,           99,         12689
+Sony SON-QB952 Earbuds             , Earbuds          , Sony   , SON-QB952   ,       5369,                 ,    22,           89,          6236
+HP HP-FX821 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-FX821    ,      19810,                 ,   146,           69,         23061
+LG LG-IE217 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-IE217    ,       3551,                 ,     7,           24,          3927
+Samsung SAM-PR617 Mobile           , Mobile           , Samsung, SAM-PR617   ,      39243,                 ,   228,           85,         50122
+Sony SON-MR397 Laptop              , Laptop           , Sony   , SON-MR397   ,      32239,                 ,    46,           15,         41568
+Samsung SAM-JE514 Mobile           , Mobile           , Samsung, SAM-JE514   ,      28447,                 ,   209,           42,         37524
+JBL JBL-UT841 Earbuds              , Earbuds          , JBL    , JBL-UT841   ,       7471,                 ,    11,            2,          9404
+LG LG-JD844 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-JD844    ,       5943,                 ,     2,           27,          7768
+JBL JBL-SE137 Earbuds              , Earbuds          , JBL    , JBL-SE137   ,       6245,                 ,   229,           33,          6873
+Canon CAN-XO012 Earbuds            , Earbuds          , Canon  , CAN-XO012   ,       2767,                 ,     7,           32,          3073
+JBL JBL-JA631 Earbuds              , Earbuds          , JBL    , JBL-JA631   ,       6511,                 ,   100,            4,          8438
+Canon CAN-WU276 Mobile             , Mobile           , Canon  , CAN-WU276   ,      17205,                 ,    18,           32,         23060
+LG LG-ER712 Smartwatch             , Smartwatch       , LG     , LG-ER712    ,      18149,                 ,   128,           63,         20796
+Lenovo LEN-IC609 Smart TV          , Smart TV         , Lenovo , LEN-IC609   ,      51852,                 ,    20,           30,         69753
+Samsung SAM-FM058 Laptop           , Laptop           , Samsung, SAM-FM058   ,      81481,                 ,   101,           95,         89611
+Boat BOA-NS236 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-NS236   ,       9438,                 ,    68,           25,         10277
+Samsung SAM-YF480 Mobile           , Mobile           , Samsung, SAM-YF480   ,      32819,                 ,   161,           26,         41542
+Lenovo LEN-BO943 Camera            , Camera           , Lenovo , LEN-BO943   ,      47994,                 ,   220,            9,         53092
+Samsung SAM-VG003 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-VG003   ,      10587,                 ,   133,           83,         14032
+JBL JBL-CS515 Laptop               , Laptop           , JBL    , JBL-CS515   ,     106835,                 ,   193,           47,        143844
+Canon CAN-QE741 Laptop             , Laptop           , Canon  , CAN-QE741   ,      51475,                 ,   215,           98,         58898
+Canon CAN-JL681 Bluetooth Speaker  , Bluetooth Speaker, Canon  , CAN-JL681   ,      14269,                 ,   219,           30,         18527
+JBL JBL-KI194 Laptop               , Laptop           , JBL    , JBL-KI194   ,      94615,                 ,   247,           90,        119555
+Dell DEL-OZ846 Earbuds             , Earbuds          , Dell   , DEL-OZ846   ,        689,                 ,   162,           52,           872
+Dell DEL-PO279 Camera              , Camera           , Dell   , DEL-PO279   ,     124089,                 ,   174,           82,        143246
+Dell DEL-ZL379 Earbuds             , Earbuds          , Dell   , DEL-ZL379   ,       5933,                 ,    22,           48,          7322
+Samsung SAM-NZ332 Smartwatch       , Smartwatch       , Samsung, SAM-NZ332   ,      12087,                 ,    68,           11,         13969
+Dell DEL-AV625 Camera              , Camera           , Dell   , DEL-AV625   ,      47602,                 ,   211,           16,         59038
+Canon CAN-YE031 Smartwatch         , Smartwatch       , Canon  , CAN-YE031   ,      25433,                 ,   167,           28,         29185
+Canon CAN-GG355 Earbuds            , Earbuds          , Canon  , CAN-GG355   ,       1570,                 ,   200,           20,          1730
+Apple APP-SU186 Laptop             , Laptop           , Apple  , APP-SU186   ,      53795,                 ,   246,           87,         72489
+Apple APP-PH750 Smartwatch         , Smartwatch       , Apple  , APP-PH750   ,      28215,                 ,     3,           58,         35067
+Dell DEL-JV488 Mobile              , Mobile           , Dell   , DEL-JV488   ,      28424,                 ,   142,           63,         31683
+Lenovo LEN-WY660 Laptop            , Laptop           , Lenovo , LEN-WY660   ,      96906,                 ,   180,           46,        123937
+Samsung SAM-IO361 Smartwatch       , Smartwatch       , Samsung, SAM-IO361   ,      11179,                 ,   203,           17,         14884
+LG LG-ZT504 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-ZT504    ,       1392,                 ,    76,           79,          1790
+LG LG-DI475 Camera                 , Camera           , LG     , LG-DI475    ,      65290,                 ,   218,           23,         86323
+Apple APP-KL674 Earbuds            , Earbuds          , Apple  , APP-KL674   ,       1966,                 ,   119,           46,          2129
+Boat BOA-KO595 Laptop              , Laptop           , Boat   , BOA-KO595   ,      27597,                 ,   244,           72,         30853
+Apple APP-GL651 Laptop             , Laptop           , Apple  , APP-GL651   ,      40037,                 ,    29,           78,         46607
+LG LG-JE367 Smart TV               , Smart TV         , LG     , LG-JE367    ,      42010,                 ,    24,           40,         49435
+Dell DEL-QZ410 Laptop              , Laptop           , Dell   , DEL-QZ410   ,      48383,                 ,   101,           87,         51196
+Xiaomi XIA-FJ781 Camera            , Camera           , Xiaomi , XIA-FJ781   ,      68909,                 ,    82,           51,         90098
+Xiaomi XIA-YY880 Mobile            , Mobile           , Xiaomi , XIA-YY880   ,      25330,                 ,   200,           28,         32325
+Apple APP-HM372 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-HM372   ,       6075,                 ,   205,           63,          8168
+JBL JBL-TO696 Smartwatch           , Smartwatch       , JBL    , JBL-TO696   ,      18432,                 ,   118,           19,         21038
+Samsung SAM-JX520 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-JX520   ,       5493,                 ,   180,           61,          6127
+Canon CAN-HM906 Laptop             , Laptop           , Canon  , CAN-HM906   ,      76875,                 ,    29,            9,         82945
+Lenovo LEN-JC283 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-JC283   ,       7816,                 ,    88,           14,          9305
+JBL JBL-ZC385 Smart TV             , Smart TV         , JBL    , JBL-ZC385   ,      31240,                 ,   221,           41,         35612
+Xiaomi XIA-NL902 Laptop            , Laptop           , Xiaomi , XIA-NL902   ,      96363,                 ,   219,            8,        103045
+HP HP-IK133 Smartwatch             , Smartwatch       , HP     , HP-IK133    ,      17849,                 ,   109,           86,         22317
+HP HP-GZ586 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-GZ586    ,       6374,                 ,   220,           62,          6843
+Samsung SAM-YY233 Smart TV         , Smart TV         , Samsung, SAM-YY233   ,      71631,                 ,    34,           11,         75957
+Apple APP-SN686 Laptop             , Laptop           , Apple  , APP-SN686   ,      90087,                 ,   212,           21,        115919
+Xiaomi XIA-OL364 Smart TV          , Smart TV         , Xiaomi , XIA-OL364   ,      70500,                 ,   100,           67,         79361
+Xiaomi XIA-QP621 Laptop            , Laptop           , Xiaomi , XIA-QP621   ,      32851,                 ,   200,           61,         35626
+JBL JBL-XL976 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-XL976   ,      14635,                 ,   225,           88,         19180
+Sony SON-IO913 Smartwatch          , Smartwatch       , Sony   , SON-IO913   ,      14328,                 ,    86,           47,         15152
+Samsung SAM-TW444 Laptop           , Laptop           , Samsung, SAM-TW444   ,     117491,                 ,   173,           47,        155464
+Lenovo LEN-YH711 Camera            , Camera           , Lenovo , LEN-YH711   ,      64678,                 ,    25,           52,         79591
+Canon CAN-QP652 Camera             , Camera           , Canon  , CAN-QP652   ,     103668,                 ,    20,           51,        114156
+Dell DEL-CU184 Mobile              , Mobile           , Dell   , DEL-CU184   ,      36483,                 ,   178,            4,         46940
+Dell DEL-EK412 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-EK412   ,      19230,                 ,    27,            4,         23147
+Samsung SAM-YY262 Smart TV         , Smart TV         , Samsung, SAM-YY262   ,      50795,                 ,    85,           66,         60766
+Apple APP-EY466 Laptop             , Laptop           , Apple  , APP-EY466   ,      42569,                 ,   104,            1,         50736
+Boat BOA-XL768 Camera              , Camera           , Boat   , BOA-XL768   ,      57070,                 ,   213,           25,         66891
+Dell DEL-KY556 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-KY556   ,       7716,                 ,   217,           27,          9195
+Samsung SAM-NL809 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-NL809   ,       8815,                 ,   105,           65,          9887
+JBL JBL-KT556 Smartwatch           , Smartwatch       , JBL    , JBL-KT556   ,      15728,                 ,   240,           99,         18077
+Xiaomi XIA-HK384 Mobile            , Mobile           , Xiaomi , XIA-HK384   ,      36119,                 ,   175,           84,         43014
+HP HP-PB518 Smart TV               , Smart TV         , HP     , HP-PB518    ,      26796,                 ,    48,           46,         32452
+Apple APP-SC796 Smart TV           , Smart TV         , Apple  , APP-SC796   ,      78557,                 ,   147,           97,        102123
+LG LG-KL157 Laptop                 , Laptop           , LG     , LG-KL157    ,      41724,                 ,   191,           62,         49299
+Boat BOA-CI671 Laptop              , Laptop           , Boat   , BOA-CI671   ,      56337,                 ,   125,            9,         64114
+Apple APP-CS607 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-CS607   ,       6463,                 ,    40,           17,          6955
+JBL JBL-PE501 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-PE501   ,       1855,                 ,    58,           39,          2243
+Canon CAN-WW117 Earbuds            , Earbuds          , Canon  , CAN-WW117   ,        682,                 ,   140,           64,           894
+LG LG-IS921 Mobile                 , Mobile           , LG     , LG-IS921    ,      21114,                 ,   138,           77,         22453
+Xiaomi XIA-AT044 Laptop            , Laptop           , Xiaomi , XIA-AT044   ,      84518,                 ,     0,           40,         95709
+Samsung SAM-PM264 Camera           , Camera           , Samsung, SAM-PM264   ,      76035,                 ,    71,           72,         96485
+Apple APP-PA826 Smart TV           , Smart TV         , Apple  , APP-PA826   ,      80348,                 ,    11,           61,        101576
+Xiaomi XIA-BD608 Camera            , Camera           , Xiaomi , XIA-BD608   ,     149393,                 ,   152,           91,        189193
+Canon CAN-VH904 Bluetooth Speaker  , Bluetooth Speaker, Canon  , CAN-VH904   ,      14654,                 ,   174,           87,         18541
+Sony SON-RP657 Laptop              , Laptop           , Sony   , SON-RP657   ,      28760,                 ,    81,           18,         35407
+Boat BOA-TJ073 Laptop              , Laptop           , Boat   , BOA-TJ073   ,      94569,                 ,   160,           36,        118172
+Apple APP-TV041 Smart TV           , Smart TV         , Apple  , APP-TV041   ,      36977,                 ,   238,           28,         39849
+HP HP-IK220 Camera                 , Camera           , HP     , HP-IK220    ,     114239,                 ,   224,           76,        145695
+Lenovo LEN-NC767 Smartwatch        , Smartwatch       , Lenovo , LEN-NC767   ,      14641,                 ,    40,           39,         16783
+HP HP-LW256 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-LW256    ,       6889,                 ,   104,           74,          8615
+Canon CAN-ON641 Laptop             , Laptop           , Canon  , CAN-ON641   ,      76649,                 ,   204,           10,        100901
+Xiaomi XIA-SZ006 Smartwatch        , Smartwatch       , Xiaomi , XIA-SZ006   ,      12101,                 ,   117,           73,         15015
+Xiaomi XIA-UZ435 Mobile            , Mobile           , Xiaomi , XIA-UZ435   ,      23154,                 ,   154,            2,         29340
+Xiaomi XIA-AF273 Bluetooth Speaker , Bluetooth Speaker, Xiaomi , XIA-AF273   ,       2628,                 ,   143,           94,          2811
+JBL JBL-IA637 Smartwatch           , Smartwatch       , JBL    , JBL-IA637   ,       9439,                 ,   168,           12,         12232
+Samsung SAM-VF894 Smartwatch       , Smartwatch       , Samsung, SAM-VF894   ,      21850,                 ,    54,           45,         25884
+Samsung SAM-QM685 Smart TV         , Smart TV         , Samsung, SAM-QM685   ,      87534,                 ,   212,           62,         93059
+Boat BOA-UK782 Earbuds             , Earbuds          , Boat   , BOA-UK782   ,       4644,                 ,   152,           23,          5177
+Lenovo LEN-IN267 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-IN267   ,      18815,                 ,    27,           21,         23437
+Dell DEL-BD833 Camera              , Camera           , Dell   , DEL-BD833   ,     136251,                 ,   118,           73,        170571
+Sony SON-OK587 Smartwatch          , Smartwatch       , Sony   , SON-OK587   ,       7020,                 ,    29,           60,          9185
+Dell DEL-SH083 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-SH083   ,      11081,                 ,   194,           28,         12912
+HP HP-FH177 Camera                 , Camera           , HP     , HP-FH177    ,      54758,                 ,    22,           75,         69970
+Boat BOA-NU913 Mobile              , Mobile           , Boat   , BOA-NU913   ,      16233,                 ,   117,          100,         18846
+JBL JBL-II709 Smart TV             , Smart TV         , JBL    , JBL-II709   ,      65734,                 ,   155,           37,         79111
+Lenovo LEN-ZF038 Smartwatch        , Smartwatch       , Lenovo , LEN-ZF038   ,      19390,                 ,    55,           65,         21188
+Samsung SAM-IB883 Mobile           , Mobile           , Samsung, SAM-IB883   ,      33840,                 ,    18,           29,         45142
+Apple APP-NR353 Mobile             , Mobile           , Apple  , APP-NR353   ,      23297,                 ,   170,           95,         28913
+Dell DEL-FH576 Laptop              , Laptop           , Dell   , DEL-FH576   ,      36738,                 ,    48,           38,         43089
+Sony SON-EC951 Earbuds             , Earbuds          , Sony   , SON-EC951   ,       1075,                 ,   161,           48,          1324
+Dell DEL-OH985 Smartwatch          , Smartwatch       , Dell   , DEL-OH985   ,      23083,                 ,   229,           65,         28255
+Apple APP-IX500 Laptop             , Laptop           , Apple  , APP-IX500   ,      42438,                 ,   108,           50,         53322
+Samsung SAM-CB415 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-CB415   ,       7980,                 ,    87,           59,          8925
+Lenovo LEN-VS638 Smartwatch        , Smartwatch       , Lenovo , LEN-VS638   ,      25602,                 ,   153,           27,         27925
+Lenovo LEN-VC975 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-VC975   ,       8597,                 ,   191,           91,          9106
+Boat BOA-CI674 Mobile              , Mobile           , Boat   , BOA-CI674   ,      31833,                 ,     5,           59,         37201
+Sony SON-WQ936 Laptop              , Laptop           , Sony   , SON-WQ936   ,      78161,                 ,   124,           37,        103174
+Dell DEL-UW404 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-UW404   ,       7313,                 ,    34,           87,          8500
+Boat BOA-LE761 Earbuds             , Earbuds          , Boat   , BOA-LE761   ,       7289,                 ,   200,           29,          8971
+LG LG-VU367 Mobile                 , Mobile           , LG     , LG-VU367    ,      26538,                 ,   243,           17,         35516
+Boat BOA-KK659 Smartwatch          , Smartwatch       , Boat   , BOA-KK659   ,      29732,                 ,    21,           68,         39877
+Apple APP-IV574 Smart TV           , Smart TV         , Apple  , APP-IV574   ,      47716,                 ,    48,           13,         52308
+Dell DEL-OG609 Camera              , Camera           , Dell   , DEL-OG609   ,      91449,                 ,    52,           87,        100639
+Boat BOA-CP304 Smartwatch          , Smartwatch       , Boat   , BOA-CP304   ,      20330,                 ,    97,           32,         23518
+LG LG-BC873 Earbuds                , Earbuds          , LG     , LG-BC873    ,       3680,                 ,   240,           85,          4078
+Lenovo LEN-RC889 Smart TV          , Smart TV         , Lenovo , LEN-RC889   ,      63949,                 ,    20,           44,         80141
+Samsung SAM-TR426 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-TR426   ,       1138,                 ,   242,            1,          1385
+Xiaomi XIA-FW276 Smart TV          , Smart TV         , Xiaomi , XIA-FW276   ,      50654,                 ,   226,           13,         55301
+Dell DEL-ZP658 Smart TV            , Smart TV         , Dell   , DEL-ZP658   ,      78478,                 ,   227,           51,        101631
+HP HP-BX905 Camera                 , Camera           , HP     , HP-BX905    ,      70568,                 ,    81,           86,         89647
+Apple APP-WW273 Earbuds            , Earbuds          , Apple  , APP-WW273   ,       6380,                 ,    18,           37,          8215
+LG LG-KL211 Earbuds                , Earbuds          , LG     , LG-KL211    ,       1498,                 ,    27,            5,          1750
+LG LG-VJ428 Smartwatch             , Smartwatch       , LG     , LG-VJ428    ,      28232,                 ,   117,           19,         35664
+Sony SON-AQ186 Laptop              , Laptop           , Sony   , SON-AQ186   ,     100774,                 ,   116,           98,        134957
+Apple APP-DU886 Laptop             , Laptop           , Apple  , APP-DU886   ,      49842,                 ,    46,           12,         57619
+Canon CAN-EN543 Smart TV           , Smart TV         , Canon  , CAN-EN543   ,      48308,                 ,   230,           92,         61532
+LG LG-PP825 Laptop                 , Laptop           , LG     , LG-PP825    ,      32684,                 ,    19,           41,         42105
+JBL JBL-OA043 Smart TV             , Smart TV         , JBL    , JBL-OA043   ,      86093,                 ,    69,           17,         91287
+Boat BOA-ZC758 Smartwatch          , Smartwatch       , Boat   , BOA-ZC758   ,       3882,                 ,    47,           52,          4614
+HP HP-MC804 Camera                 , Camera           , HP     , HP-MC804    ,     110071,                 ,   182,          100,        131818
+Lenovo LEN-YC673 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-YC673   ,       8269,                 ,   189,           88,          9978
+Dell DEL-NA495 Mobile              , Mobile           , Dell   , DEL-NA495   ,       8454,                 ,   202,           64,          9857
+LG LG-JZ216 Earbuds                , Earbuds          , LG     , LG-JZ216    ,       3308,                 ,   208,           51,          3832
+HP HP-SO041 Smartwatch             , Smartwatch       , HP     , HP-SO041    ,      25452,                 ,    81,           92,         34213
+Lenovo LEN-ZV620 Mobile            , Mobile           , Lenovo , LEN-ZV620   ,      24354,                 ,   238,            4,         29970
+Apple APP-WH128 Smartwatch         , Smartwatch       , Apple  , APP-WH128   ,      12094,                 ,    47,           73,         16167
+Apple APP-PX763 Mobile             , Mobile           , Apple  , APP-PX763   ,      40631,                 ,    80,           81,         53071
+HP HP-UG150 Laptop                 , Laptop           , HP     , HP-UG150    ,      87320,                 ,    71,           19,         99503
+Sony SON-PV874 Mobile              , Mobile           , Sony   , SON-PV874   ,      27826,                 ,    12,           47,         32959
+Xiaomi XIA-RS158 Smart TV          , Smart TV         , Xiaomi , XIA-RS158   ,      44045,                 ,   246,           80,         49164
+Lenovo LEN-GV044 Mobile            , Mobile           , Lenovo , LEN-GV044   ,      39905,                 ,    92,           86,         47608
+JBL JBL-GR325 Smart TV             , Smart TV         , JBL    , JBL-GR325   ,      56674,                 ,    41,           64,         71282
+Samsung SAM-HU335 Smart TV         , Smart TV         , Samsung, SAM-HU335   ,      20276,                 ,   193,           41,         23471
+Apple APP-XQ949 Mobile             , Mobile           , Apple  , APP-XQ949   ,      21906,                 ,    56,           94,         24386
+HP HP-IG063 Camera                 , Camera           , HP     , HP-IG063    ,      71622,                 ,   113,            8,         96486
+Lenovo LEN-TT513 Camera            , Camera           , Lenovo , LEN-TT513   ,      99761,                 ,    70,           30,        129543
+Sony SON-IA004 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-IA004   ,      11886,                 ,    35,           25,         12637
+Apple APP-RJ720 Smartwatch         , Smartwatch       , Apple  , APP-RJ720   ,      12764,                 ,    36,           13,         16237
+Apple APP-BP825 Smartwatch         , Smartwatch       , Apple  , APP-BP825   ,      12959,                 ,   187,           73,         17250
+Apple APP-CP376 Mobile             , Mobile           , Apple  , APP-CP376   ,      17390,                 ,    34,           66,         22873
+Sony SON-XS249 Camera              , Camera           , Sony   , SON-XS249   ,      92064,                 ,   205,            4,        116640
+Boat BOA-XH497 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-XH497   ,       9605,                 ,    74,           99,         10155
+HP HP-EB733 Earbuds                , Earbuds          , HP     , HP-EB733    ,       4155,                 ,   187,           77,          4501
+HP HP-YG449 Mobile                 , Mobile           , HP     , HP-YG449    ,      16207,                 ,    60,           83,         17368
+LG LG-EM172 Smartwatch             , Smartwatch       , LG     , LG-EM172    ,       8242,                 ,    65,           40,         10802
+Apple APP-XS105 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-XS105   ,       6776,                 ,   233,           16,          8132
+Boat BOA-AM600 Earbuds             , Earbuds          , Boat   , BOA-AM600   ,       7855,                 ,   217,           13,          8589
+HP HP-DI307 Smart TV               , Smart TV         , HP     , HP-DI307    ,      83671,                 ,    33,           39,         95266
+Boat BOA-MK780 Camera              , Camera           , Boat   , BOA-MK780   ,      83487,                 ,   119,           55,         94987
+Samsung SAM-JR715 Laptop           , Laptop           , Samsung, SAM-JR715   ,      83394,                 ,   230,           53,         88114
+Dell DEL-RK690 Earbuds             , Earbuds          , Dell   , DEL-RK690   ,       4378,                 ,   232,           30,          4893
+Dell DEL-CL761 Smartwatch          , Smartwatch       , Dell   , DEL-CL761   ,       3436,                 ,   146,           53,          3642
+LG LG-RH316 Mobile                 , Mobile           , LG     , LG-RH316    ,      29864,                 ,    30,           81,         38162
+Apple APP-XL100 Smart TV           , Smart TV         , Apple  , APP-XL100   ,      36566,                 ,   189,           74,         43913
+Xiaomi XIA-MB535 Smartwatch        , Smartwatch       , Xiaomi , XIA-MB535   ,      18369,                 ,    53,           52,         23814
+Boat BOA-ZA337 Camera              , Camera           , Boat   , BOA-ZA337   ,      40235,                 ,    13,           50,         50486
+Apple APP-FR598 Smart TV           , Smart TV         , Apple  , APP-FR598   ,      36237,                 ,   151,           79,         46990
+Sony SON-TG074 Smartwatch          , Smartwatch       , Sony   , SON-TG074   ,      16333,                 ,     3,           77,         19909
+Boat BOA-XQ260 Mobile              , Mobile           , Boat   , BOA-XQ260   ,      11590,                 ,    11,           31,         14675
+Samsung SAM-XV068 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-XV068   ,      13237,                 ,   247,           98,         17401
+Apple APP-CP602 Mobile             , Mobile           , Apple  , APP-CP602   ,      13016,                 ,    78,           57,         16590
+Lenovo LEN-KD653 Earbuds           , Earbuds          , Lenovo , LEN-KD653   ,       5586,                 ,    92,           26,          6182
+Xiaomi XIA-TP311 Camera            , Camera           , Xiaomi , XIA-TP311   ,      65961,                 ,    37,           81,         74723
+Sony SON-SO490 Smart TV            , Smart TV         , Sony   , SON-SO490   ,      47990,                 ,     7,           41,         58786
+Lenovo LEN-PU040 Mobile            , Mobile           , Lenovo , LEN-PU040   ,      41205,                 ,   120,           64,         46316
+Apple APP-SP267 Laptop             , Laptop           , Apple  , APP-SP267   ,      95812,                 ,   120,           65,        127359
+Sony SON-FQ549 Smart TV            , Smart TV         , Sony   , SON-FQ549   ,      52402,                 ,   161,           44,         63903
+Samsung SAM-PS608 Smartwatch       , Smartwatch       , Samsung, SAM-PS608   ,       8571,                 ,   142,           51,         11028
+Dell DEL-KO199 Earbuds             , Earbuds          , Dell   , DEL-KO199   ,       2688,                 ,   197,           56,          3163
+Dell DEL-WZ546 Smartwatch          , Smartwatch       , Dell   , DEL-WZ546   ,      25475,                 ,   144,           58,         31908
+HP HP-BC189 Laptop                 , Laptop           , HP     , HP-BC189    ,      64129,                 ,    59,           91,         78198
+Sony SON-EX032 Smart TV            , Smart TV         , Sony   , SON-EX032   ,      64760,                 ,   137,           47,         81672
+Dell DEL-QX410 Earbuds             , Earbuds          , Dell   , DEL-QX410   ,       4618,                 ,   234,           13,          5201
+Sony SON-EA502 Smartwatch          , Smartwatch       , Sony   , SON-EA502   ,      28504,                 ,    10,           17,         32310
+Canon CAN-PK782 Smart TV           , Smart TV         , Canon  , CAN-PK782   ,      74040,                 ,    20,           84,         84362
+Dell DEL-FG418 Mobile              , Mobile           , Dell   , DEL-FG418   ,      11842,                 ,    41,           17,         14722
+Boat BOA-PB426 Mobile              , Mobile           , Boat   , BOA-PB426   ,      23508,                 ,   102,           28,         28199
+LG LG-JL132 Laptop                 , Laptop           , LG     , LG-JL132    ,      50599,                 ,    46,           18,         59697
+Sony SON-AO214 Earbuds             , Earbuds          , Sony   , SON-AO214   ,       6593,                 ,   104,           71,          8447
+Sony SON-TF217 Smart TV            , Smart TV         , Sony   , SON-TF217   ,      22257,                 ,    99,           31,         27056
+Sony SON-PO245 Smartwatch          , Smartwatch       , Sony   , SON-PO245   ,      18233,                 ,    72,           38,         20304
+Xiaomi XIA-PV277 Camera            , Camera           , Xiaomi , XIA-PV277   ,     133581,                 ,   224,          100,        175531
+Xiaomi XIA-IP851 Laptop            , Laptop           , Xiaomi , XIA-IP851   ,     101396,                 ,   236,           34,        129402
+Samsung SAM-KB975 Smartwatch       , Smartwatch       , Samsung, SAM-KB975   ,      23360,                 ,     6,           36,         25485
+JBL JBL-KV604 Smart TV             , Smart TV         , JBL    , JBL-KV604   ,      67377,                 ,    69,           44,         85644
+JBL JBL-TS423 Mobile               , Mobile           , JBL    , JBL-TS423   ,      25604,                 ,    53,           54,         32124
+Lenovo LEN-ZA614 Laptop            , Laptop           , Lenovo , LEN-ZA614   ,      79336,                 ,   234,           99,        104490
+Canon CAN-AL784 Smartwatch         , Smartwatch       , Canon  , CAN-AL784   ,      20932,                 ,   117,           54,         22343
+Dell DEL-QS063 Camera              , Camera           , Dell   , DEL-QS063   ,      77507,                 ,    73,           46,         83704
+Dell DEL-NH766 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-NH766   ,      19199,                 ,    80,          100,         24987
+Xiaomi XIA-UC870 Smartwatch        , Smartwatch       , Xiaomi , XIA-UC870   ,       7493,                 ,   152,            3,          8797
+Dell DEL-XC363 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-XC363   ,       3158,                 ,    11,           54,          3628
+Lenovo LEN-OB729 Laptop            , Laptop           , Lenovo , LEN-OB729   ,      79131,                 ,   170,           25,         83323
+JBL JBL-CM959 Laptop               , Laptop           , JBL    , JBL-CM959   ,      26401,                 ,   229,           65,         31831
+Xiaomi XIA-IX540 Laptop            , Laptop           , Xiaomi , XIA-IX540   ,      45307,                 ,    15,           47,         53755
+Dell DEL-LN845 Earbuds             , Earbuds          , Dell   , DEL-LN845   ,       3012,                 ,   185,           76,          3633
+JBL JBL-XL366 Camera               , Camera           , JBL    , JBL-XL366   ,      18866,                 ,   169,           59,         23065
+Xiaomi XIA-XL082 Mobile            , Mobile           , Xiaomi , XIA-XL082   ,      36116,                 ,   223,           96,         40799
+Apple APP-EC112 Mobile             , Mobile           , Apple  , APP-EC112   ,      23908,                 ,    54,           58,         27554
+Samsung SAM-HZ513 Bluetooth Speaker, Bluetooth Speaker, Samsung, SAM-HZ513   ,      19950,                 ,   125,           12,         23030
+Lenovo LEN-AE088 Smart TV          , Smart TV         , Lenovo , LEN-AE088   ,      66607,                 ,   116,          100,         81289
+Lenovo LEN-IP674 Smartwatch        , Smartwatch       , Lenovo , LEN-IP674   ,      20356,                 ,   110,           51,         27323
+JBL JBL-VL317 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-VL317   ,      19591,                 ,   224,           87,         25851
+HP HP-FJ281 Laptop                 , Laptop           , HP     , HP-FJ281    ,      72832,                 ,    44,           86,         82834
+Boat BOA-YQ151 Earbuds             , Earbuds          , Boat   , BOA-YQ151   ,       5678,                 ,   194,           29,          6477
+Lenovo LEN-UE195 Laptop            , Laptop           , Lenovo , LEN-UE195   ,      27204,                 ,   155,           77,         30576
+HP HP-JF769 Smart TV               , Smart TV         , HP     , HP-JF769    ,      53870,                 ,   171,           90,         57528
+Dell DEL-LZ510 Laptop              , Laptop           , Dell   , DEL-LZ510   ,      46607,                 ,   132,           56,         62118
+Sony SON-YY195 Smart TV            , Smart TV         , Sony   , SON-YY195   ,      81215,                 ,   232,           17,         87117
+Dell DEL-QH897 Smartwatch          , Smartwatch       , Dell   , DEL-QH897   ,       8690,                 ,   198,           57,         11016
+Lenovo LEN-DO946 Smartwatch        , Smartwatch       , Lenovo , LEN-DO946   ,       3025,                 ,    44,           83,          3945
+Boat BOA-XD534 Bluetooth Speaker   , Bluetooth Speaker, Boat   , BOA-XD534   ,       9652,                 ,   103,           68,         12483
+Xiaomi XIA-LC065 Camera            , Camera           , Xiaomi , XIA-LC065   ,      22006,                 ,   234,           65,         27556
+HP HP-FC869 Laptop                 , Laptop           , HP     , HP-FC869    ,      58840,                 ,   101,           88,         78505
+LG LG-FI699 Smartwatch             , Smartwatch       , LG     , LG-FI699    ,      26989,                 ,    46,           31,         32143
+LG LG-DW332 Earbuds                , Earbuds          , LG     , LG-DW332    ,       7132,                 ,    25,            5,          8964
+HP HP-ZW074 Earbuds                , Earbuds          , HP     , HP-ZW074    ,       6439,                 ,   247,           54,          7205
+Boat BOA-HU948 Smart TV            , Smart TV         , Boat   , BOA-HU948   ,      47045,                 ,    14,           96,         56872
+Canon CAN-PD395 Laptop             , Laptop           , Canon  , CAN-PD395   ,      46625,                 ,   196,            6,         58462
+Apple APP-YP306 Earbuds            , Earbuds          , Apple  , APP-YP306   ,       7961,                 ,   189,           82,         10576
+LG LG-EM591 Earbuds                , Earbuds          , LG     , LG-EM591    ,       7357,                 ,   222,           94,          8122
+LG LG-HM835 Camera                 , Camera           , LG     , LG-HM835    ,     111258,                 ,    92,            8,        122353
+JBL JBL-TF713 Smart TV             , Smart TV         , JBL    , JBL-TF713   ,      20492,                 ,   160,           81,         21823
+Lenovo LEN-MQ844 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-MQ844   ,       7474,                 ,    10,           95,          9626
+Lenovo LEN-GD290 Bluetooth Speaker , Bluetooth Speaker, Lenovo , LEN-GD290   ,      14979,                 ,   168,           16,         18689
+Dell DEL-PO864 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-PO864   ,      13867,                 ,    47,           56,         18518
+Apple APP-JT025 Bluetooth Speaker  , Bluetooth Speaker, Apple  , APP-JT025   ,       8866,                 ,   248,           76,         11918
+Dell DEL-LS303 Laptop              , Laptop           , Dell   , DEL-LS303   ,     112178,                 ,    17,           19,        133232
+Dell DEL-BH601 Bluetooth Speaker   , Bluetooth Speaker, Dell   , DEL-BH601   ,       7102,                 ,   117,           82,          7612
+Sony SON-TP133 Bluetooth Speaker   , Bluetooth Speaker, Sony   , SON-TP133   ,       1619,                 ,    58,           98,          2084
+Lenovo LEN-UH635 Camera            , Camera           , Lenovo , LEN-UH635   ,      49064,                 ,   244,           80,         65649
+Sony SON-AN343 Earbuds             , Earbuds          , Sony   , SON-AN343   ,       7093,                 ,     7,           13,          9505
+Apple APP-FN875 Laptop             , Laptop           , Apple  , APP-FN875   ,      43793,                 ,    95,          100,         52248
+JBL JBL-VS784 Bluetooth Speaker    , Bluetooth Speaker, JBL    , JBL-VS784   ,      13782,                 ,   170,           39,         15430
+Apple APP-VY433 Mobile             , Mobile           , Apple  , APP-VY433   ,      37312,                 ,    87,           86,         40998
+Boat BOA-XP737 Camera              , Camera           , Boat   , BOA-XP737   ,      92960,                 ,    35,           92,        120905
+Apple APP-FW121 Mobile             , Mobile           , Apple  , APP-FW121   ,       9583,                 ,   170,           85,         11649
+Apple APP-LT104 Laptop             , Laptop           , Apple  , APP-LT104   ,      43601,                 ,    65,           55,         49988
+Samsung SAM-FA654 Smart TV         , Smart TV         , Samsung, SAM-FA654   ,      63463,                 ,    21,           27,         82024
+Samsung SAM-BR779 Earbuds          , Earbuds          , Samsung, SAM-BR779   ,       3436,                 ,   107,           13,          4022
+Canon CAN-XE308 Laptop             , Laptop           , Canon  , CAN-XE308   ,      91732,                 ,     8,           54,         99579
+Canon CAN-JE572 Earbuds            , Earbuds          , Canon  , CAN-JE572   ,       3818,                 ,   242,            1,          5062
+Apple APP-CP021 Smartwatch         , Smartwatch       , Apple  , APP-CP021   ,      23127,                 ,    70,           67,         27840
+Sony SON-XN902 Earbuds             , Earbuds          , Sony   , SON-XN902   ,       1479,                 ,    93,           35,          1593
+Boat BOA-JP491 Smartwatch          , Smartwatch       , Boat   , BOA-JP491   ,      10778,                 ,    90,           90,         14391
+LG LG-LN473 Earbuds                , Earbuds          , LG     , LG-LN473    ,       3265,                 ,   172,           93,          4037
+Apple APP-NM327 Smart TV           , Smart TV         , Apple  , APP-NM327   ,      86641,                 ,   113,            1,        108040
+Dell DEL-MK476 Mobile              , Mobile           , Dell   , DEL-MK476   ,      21417,                 ,   147,           87,         28124
+Boat BOA-FK948 Camera              , Camera           , Boat   , BOA-FK948   ,     133474,                 ,   132,           65,        170250
+Boat BOA-YJ066 Camera              , Camera           , Boat   , BOA-YJ066   ,      58361,                 ,   168,           93,         73176
+Boat BOA-NR136 Smart TV            , Smart TV         , Boat   , BOA-NR136   ,      83043,                 ,   138,           56,        101685
+Sony SON-BZ359 Mobile              , Mobile           , Sony   , SON-BZ359   ,      28626,                 ,   114,           19,         32859
+Xiaomi XIA-VS275 Mobile            , Mobile           , Xiaomi , XIA-VS275   ,       7132,                 ,    46,           71,          8243
+Lenovo LEN-YJ699 Earbuds           , Earbuds          , Lenovo , LEN-YJ699   ,       6797,                 ,   148,           78,          8956
+HP HP-DL142 Smartwatch             , Smartwatch       , HP     , HP-DL142    ,       5179,                 ,    83,           15,          6716
+Samsung SAM-CB069 Laptop           , Laptop           , Samsung, SAM-CB069   ,      72857,                 ,   220,            8,         80973
+Canon CAN-RD600 Smart TV           , Smart TV         , Canon  , CAN-RD600   ,      59464,                 ,   111,           46,         67712
+JBL JBL-TU264 Camera               , Camera           , JBL    , JBL-TU264   ,      78353,                 ,   164,            1,        104384
+JBL JBL-IW590 Earbuds              , Earbuds          , JBL    , JBL-IW590   ,       7350,                 ,    26,           40,          7927
+Apple APP-JI340 Smart TV           , Smart TV         , Apple  , APP-JI340   ,      34270,                 ,   225,           93,         39398
+Lenovo LEN-WH741 Smartwatch        , Smartwatch       , Lenovo , LEN-WH741   ,      22991,                 ,     3,           67,         26572
+LG LG-MC666 Bluetooth Speaker      , Bluetooth Speaker, LG     , LG-MC666    ,      17673,                 ,   214,           53,         23200
+Boat BOA-MW534 Smartwatch          , Smartwatch       , Boat   , BOA-MW534   ,      10415,                 ,   108,           69,         11841
+Canon CAN-RT205 Smart TV           , Smart TV         , Canon  , CAN-RT205   ,      57726,                 ,    61,           41,         62826
+Dell DEL-JT083 Laptop              , Laptop           , Dell   , DEL-JT083   ,      74976,                 ,   187,           54,         92005
+LG LG-IJ362 Mobile                 , Mobile           , LG     , LG-IJ362    ,      44213,                 ,   137,           40,         47148
+HP HP-PX033 Bluetooth Speaker      , Bluetooth Speaker, HP     , HP-PX033    ,      14926,                 ,    60,           84,         17034
+JBL JBL-IL859 Mobile               , Mobile           , JBL    , JBL-IL859   ,      44402,                 ,    85,           47,         58380
+Samsung SAM-SP933 Earbuds          , Earbuds          , Samsung, SAM-SP933   ,       2487,                 ,    37,           36,          3332
+Apple APP-VC635 Smartwatch         , Smartwatch       , Apple  , APP-VC635   ,      22624,                 ,    86,           58,         29513
+Lenovo LEN-IP344 Camera            , Camera           , Lenovo , LEN-IP344   ,      72649,                 ,   100,           25,         95810
+Apple APP-VN209 Camera             , Camera           , Apple  , APP-VN209   ,      40711,                 ,   205,           57,         52722
+Xiaomi XIA-QY755 Smart TV          , Smart TV         , Xiaomi , XIA-QY755   ,      27214,                 ,    38,           16,         35160
+Apple APP-ON430 Earbuds            , Earbuds          , Apple  , APP-ON430   ,       3051,                 ,    53,           21,          3901
+HP HP-NH634 Camera                 , Camera           , HP     , HP-NH634    ,      33375,                 ,    58,           31,         41662
